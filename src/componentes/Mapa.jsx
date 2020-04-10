@@ -3,7 +3,6 @@ import { Map, TileLayer} from 'react-leaflet'
 import '../App.css'
 import Confirmados from './Confirmados'
 
-
 const Mapa = () => {
     return(
         <Map center={[20, 0]} zoom={3}>

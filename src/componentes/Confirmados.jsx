@@ -1,5 +1,5 @@
 import React from 'react'
-import { Marker } from 'react-leaflet'
+import { Marker, Popup } from 'react-leaflet'
 import useSwr from 'swr'
 
 const URL = 'https://covid19.mathdro.id/api/confirmed'
@@ -8,14 +8,41 @@ const fetcher = (...args) => fetch(...args)
 
 const Confirmados = () =>{
     const { data , error } = useSwr( URL, fetcher);
-    const casosConfirmados = ( data && !error)? data.slice(0,100) : []
+    const casosConfirmados = ( data && !error)? data.slice(0,100) : [];
+    const [ casoConfirmadoActivo, setCasoConfirmadoActivo] = React.useState(null)
     return(
-        casosConfirmados.map( (casoConfirmado, index) =>
-            <Marker 
-                key = { index }
-                position = { [casoConfirmado.lat, casoConfirmado.long]}
-            />
-        )
+        <div>
+            {
+                casosConfirmados.map( (casoConfirmado, index) => {    
+                        if(casoConfirmado.lat !== null && casoConfirmado.long !== null){
+                            return(    
+                                <Marker 
+                                    key = { index }
+                                    position = { [casoConfirmado.lat, casoConfirmado.long]}
+                                    onmouseover = { () => {
+                                        setCasoConfirmadoActivo(null);
+                                        setCasoConfirmadoActivo(casoConfirmado)
+                                    }}
+                                />
+                            )
+                        }else{
+                            return null
+                        }
+                    }   
+                )
+            }
+            {casoConfirmadoActivo &&
+                <Popup
+                    position = {[casoConfirmadoActivo.lat, casoConfirmadoActivo.long]}
+                >
+                    <h2>{casoConfirmadoActivo.countryRegion}</h2>
+                    <h4>Confirmados: {casoConfirmadoActivo.confirmed}</h4>
+                    <h4>Recuperados: {casoConfirmadoActivo.recovered}</h4>
+                    <h4>Fallecidos: {casoConfirmadoActivo.deaths}</h4>
+                </Popup>
+            } 
+        </div>
+        
     )
 }
 export default Confirmados;
