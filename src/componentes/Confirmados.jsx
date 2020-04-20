@@ -1,10 +1,17 @@
 import React from 'react'
 import { Marker, Popup } from 'react-leaflet'
 import useSwr from 'swr'
+import { Icon } from 'leaflet'
 
 const URL = 'https://covid19.mathdro.id/api/confirmed'
+
 const fetcher = (...args) => fetch(...args)
     .then( response => response.json())
+
+const icon = new Icon({
+    iconUrl: '/circulo.svg',
+    iconSize: [10,10]
+})
 
 const Confirmados = () =>{
     const { data , error } = useSwr( URL, fetcher);
@@ -19,6 +26,7 @@ const Confirmados = () =>{
                                 <Marker 
                                     key = { index }
                                     position = { [casoConfirmado.lat, casoConfirmado.long]}
+                                    icon = {icon}
                                     onmouseover = { () => {
                                         setCasoConfirmadoActivo(null);
                                         setCasoConfirmadoActivo(casoConfirmado)
