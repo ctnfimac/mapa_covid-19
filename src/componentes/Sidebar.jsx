@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import { MDBCard, MDBCardText, MDBCardHeader} from "mdbreact";
 
+import { textInfectados, textFallecidos ,textRecuperados } from "./popupStyles";
+
+
 class Sidebar extends Component{
 
     constructor(props){
@@ -26,21 +29,21 @@ class Sidebar extends Component{
       return(
         <React.Fragment>
             <MDBCard className="card-body elegant-color" style={{ width: "19rem", marginTop: "2rem" }}>
-                <MDBCardHeader color="black text-center">TOTAL INFECTADOS</MDBCardHeader>
-                <MDBCardText className="text-center pt-3 orange-text display-4">
-                  {this.state.dataIsLoad && this.state.data.confirmed.value}
+                <MDBCardHeader color="black text-center"> <span className="grey-text">TOTAL INFECTADOS</span></MDBCardHeader>
+                <MDBCardText className="text-center pt-3 display-4" style={textInfectados}>
+                  {this.state.dataIsLoad && this.state.data.confirmed.value.toLocaleString()}
                 </MDBCardText>
               </MDBCard>
               <MDBCard className="card-body elegant-color" style={{ width: "19rem", marginTop: "2rem" }}>
-                <MDBCardHeader color="black text-center">TOTAL FALLECIDOS</MDBCardHeader>
-                <MDBCardText className="text-center pt-3 red-text display-4">
-                  {this.state.dataIsLoad && this.state.data.deaths.value}
+                <MDBCardHeader color="black text-center"><span className="grey-text">TOTAL FALLECIDOS</span></MDBCardHeader>
+                <MDBCardText className="text-center pt-3 display-4" style={textFallecidos}>
+                  {this.state.dataIsLoad && this.state.data.deaths.value.toLocaleString()}
                 </MDBCardText>
               </MDBCard>
               <MDBCard className="card-body elegant-color" style={{ width: "19rem", marginTop: "2rem" }}>
-                <MDBCardHeader color="black text-center">TOTAL RECUPERADOS</MDBCardHeader>
-                <MDBCardText className="text-center pt-3 green-text display-4">
-                  {this.state.dataIsLoad && this.state.data.recovered.value}
+                <MDBCardHeader color="black text-center"><span className="grey-text">TOTAL RECUPERADOS</span></MDBCardHeader>
+                <MDBCardText className="text-center pt-3 display-4" style={textRecuperados}>
+                  {this.state.dataIsLoad && this.state.data.recovered.value.toLocaleString()}
                 </MDBCardText>
               </MDBCard>
         </React.Fragment>

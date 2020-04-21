@@ -7,3 +7,18 @@ html, body, #root{
   height: 88vh;
   margin-top: 30px;
 }
+
+
+.request-popup .leaflet-popup-content-wrapper {
+  border-radius: 2px;
+  background-color: #212121;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: #212121;
+  box-shadow: 0 1px 5px rgba(250,0,0,0.4);
+}
+
+.leaflet-popup-tip, .leaflet-popup-tip-container{
+  color: #212121;
+}

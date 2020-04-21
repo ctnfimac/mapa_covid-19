@@ -2,6 +2,8 @@ import React from 'react'
 import { Marker, Popup } from 'react-leaflet'
 import useSwr from 'swr'
 import { Icon } from 'leaflet'
+import { popupHead, okText } from "./popupStyles";
+
 
 const URL = 'https://covid19.mathdro.id/api/confirmed'
 
@@ -40,13 +42,14 @@ const Confirmados = () =>{
                 )
             }
             {casoConfirmadoActivo &&
-                <Popup
+                <Popup 
+                    className="request-popup"
                     position = {[casoConfirmadoActivo.lat, casoConfirmadoActivo.long]}
                 >
-                    <h2>{casoConfirmadoActivo.countryRegion}</h2>
-                    <h4>Confirmados: {casoConfirmadoActivo.confirmed}</h4>
-                    <h4>Recuperados: {casoConfirmadoActivo.recovered}</h4>
-                    <h4>Fallecidos: {casoConfirmadoActivo.deaths}</h4>
+                    <h2 style={popupHead}>{casoConfirmadoActivo.countryRegion}</h2>
+                    <h4 style={okText}>Infectados: {casoConfirmadoActivo.confirmed.toLocaleString()}</h4>
+                    <h4 style={okText}>Fallecidos: {casoConfirmadoActivo.deaths.toLocaleString()}</h4>
+                    <h4 style={okText}>Recuperados:{casoConfirmadoActivo.recovered.toLocaleString()}</h4>
                 </Popup>
             } 
         </div>
