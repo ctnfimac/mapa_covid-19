@@ -14,10 +14,10 @@ function App() {
         <Menu />
         <MDBContainer fluid>
           <MDBRow>
-            <MDBCol md="2" xs="12">
+            <MDBCol xl="2" lg="3" md="5" xs="12">
               <Sidebar />
             </MDBCol>
-            <MDBCol md="10" xs="12">
+            <MDBCol xl="10" lg="9" md="7" xs="12">
               <Mapa />
             </MDBCol>
           </MDBRow>

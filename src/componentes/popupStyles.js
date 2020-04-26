@@ -1,3 +1,4 @@
+let text_size= "2.2em"
 
 const popupHead = {
     fontWeight: "bold",
@@ -13,15 +14,18 @@ const okText = {
 };
 
 const textInfectados = {
-    color: "rgb(243,156,18)" 
+    color: "rgb(243,156,18)",
+    fontSize: text_size
 }
 
 const textFallecidos = {
-    color: "rgb(192,57,43)"
+    color: "rgb(192,57,43)",
+    fontSize: text_size
 }
 
 const textRecuperados = {
-    color: "rgb(39,174,96)"
+    color: "rgb(39,174,96)",
+    fontSize: text_size
 }
   
 export { popupHead, okText, textInfectados, textFallecidos, textRecuperados };

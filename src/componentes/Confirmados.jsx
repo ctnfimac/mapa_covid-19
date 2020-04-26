@@ -4,8 +4,8 @@ import useSwr from 'swr'
 import { Icon } from 'leaflet'
 import { popupHead, okText } from "./popupStyles";
 
-
 const URL = 'https://covid19.mathdro.id/api/confirmed'
+// const URL2= 'https://2019ncov-api.now.sh/api/cases'
 
 const fetcher = (...args) => fetch(...args)
     .then( response => response.json())
@@ -15,9 +15,9 @@ const icon = new Icon({
     iconSize: [10,10]
 })
 
-const Confirmados = () =>{
+const Confirmados = (props) =>{
     const { data , error } = useSwr( URL, fetcher);
-    const casosConfirmados = ( data && !error)? data.slice(0,100) : [];
+    const casosConfirmados = ( data && !error)? data.slice(0,300) : [];
     const [ casoConfirmadoActivo, setCasoConfirmadoActivo] = React.useState(null)
     return(
         <div>
@@ -49,7 +49,7 @@ const Confirmados = () =>{
                     <h2 style={popupHead}>{casoConfirmadoActivo.countryRegion}</h2>
                     <h4 style={okText}>Infectados: {casoConfirmadoActivo.confirmed.toLocaleString()}</h4>
                     <h4 style={okText}>Fallecidos: {casoConfirmadoActivo.deaths.toLocaleString()}</h4>
-                    <h4 style={okText}>Recuperados:{casoConfirmadoActivo.recovered.toLocaleString()}</h4>
+                    <h4 style={okText}>Recuperados: {casoConfirmadoActivo.recovered.toLocaleString()}</h4>
                 </Popup>
             } 
         </div>
