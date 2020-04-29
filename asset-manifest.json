@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ctnfimac/mapa_covid-19/static/css/main.4295791e.chunk.css",
-    "main.js": "/ctnfimac/mapa_covid-19/static/js/main.ffa4b8d2.chunk.js",
-    "main.js.map": "/ctnfimac/mapa_covid-19/static/js/main.ffa4b8d2.chunk.js.map",
-    "runtime-main.js": "/ctnfimac/mapa_covid-19/static/js/runtime-main.d4e32b7b.js",
-    "runtime-main.js.map": "/ctnfimac/mapa_covid-19/static/js/runtime-main.d4e32b7b.js.map",
-    "static/css/2.aca67d6a.chunk.css": "/ctnfimac/mapa_covid-19/static/css/2.aca67d6a.chunk.css",
-    "static/js/2.98ec6b1a.chunk.js": "/ctnfimac/mapa_covid-19/static/js/2.98ec6b1a.chunk.js",
-    "static/js/2.98ec6b1a.chunk.js.map": "/ctnfimac/mapa_covid-19/static/js/2.98ec6b1a.chunk.js.map",
-    "index.html": "/ctnfimac/mapa_covid-19/index.html",
-    "precache-manifest.b360fd3d3ea0829dff47c146e3e239d1.js": "/ctnfimac/mapa_covid-19/precache-manifest.b360fd3d3ea0829dff47c146e3e239d1.js",
-    "service-worker.js": "/ctnfimac/mapa_covid-19/service-worker.js",
-    "static/css/2.aca67d6a.chunk.css.map": "/ctnfimac/mapa_covid-19/static/css/2.aca67d6a.chunk.css.map",
-    "static/css/main.4295791e.chunk.css.map": "/ctnfimac/mapa_covid-19/static/css/main.4295791e.chunk.css.map",
-    "static/js/2.98ec6b1a.chunk.js.LICENSE.txt": "/ctnfimac/mapa_covid-19/static/js/2.98ec6b1a.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/ctnfimac/mapa_covid-19/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/ctnfimac/mapa_covid-19/static/media/fa-solid-900.ec763292.svg"
+    "main.css": "/ctnfimac/pruebadeploy/static/css/main.4295791e.chunk.css",
+    "main.js": "/ctnfimac/pruebadeploy/static/js/main.11dcc3ad.chunk.js",
+    "main.js.map": "/ctnfimac/pruebadeploy/static/js/main.11dcc3ad.chunk.js.map",
+    "runtime-main.js": "/ctnfimac/pruebadeploy/static/js/runtime-main.e4265e54.js",
+    "runtime-main.js.map": "/ctnfimac/pruebadeploy/static/js/runtime-main.e4265e54.js.map",
+    "static/css/2.531c73b5.chunk.css": "/ctnfimac/pruebadeploy/static/css/2.531c73b5.chunk.css",
+    "static/js/2.98ec6b1a.chunk.js": "/ctnfimac/pruebadeploy/static/js/2.98ec6b1a.chunk.js",
+    "static/js/2.98ec6b1a.chunk.js.map": "/ctnfimac/pruebadeploy/static/js/2.98ec6b1a.chunk.js.map",
+    "index.html": "/ctnfimac/pruebadeploy/index.html",
+    "precache-manifest.119f52552ebb3f4cbf9b77df35ff7116.js": "/ctnfimac/pruebadeploy/precache-manifest.119f52552ebb3f4cbf9b77df35ff7116.js",
+    "service-worker.js": "/ctnfimac/pruebadeploy/service-worker.js",
+    "static/css/2.531c73b5.chunk.css.map": "/ctnfimac/pruebadeploy/static/css/2.531c73b5.chunk.css.map",
+    "static/css/main.4295791e.chunk.css.map": "/ctnfimac/pruebadeploy/static/css/main.4295791e.chunk.css.map",
+    "static/js/2.98ec6b1a.chunk.js.LICENSE.txt": "/ctnfimac/pruebadeploy/static/js/2.98ec6b1a.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/ctnfimac/pruebadeploy/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/ctnfimac/pruebadeploy/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4e32b7b.js",
-    "static/css/2.aca67d6a.chunk.css",
+    "static/js/runtime-main.e4265e54.js",
+    "static/css/2.531c73b5.chunk.css",
     "static/js/2.98ec6b1a.chunk.js",
     "static/css/main.4295791e.chunk.css",
-    "static/js/main.ffa4b8d2.chunk.js"
+    "static/js/main.11dcc3ad.chunk.js"
   ]
 }
