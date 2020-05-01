@@ -27,8 +27,8 @@ class Sidebar extends Component{
 
     render(){
       return(
-        <React.Fragment>
-            <MDBCard className="card-body elegant-color w-100 p-1" style={{ marginTop: "2rem" }}>
+        <React.Fragment >
+            <MDBCard className="card-body elegant-color w-100 p-1" style={{ marginTop: "5rem" }}>
                 <MDBCardHeader color="black text-center"> <span className="grey-text">INFECTADOS</span></MDBCardHeader>
                 <MDBCardText className="text-center pt-3" style={textInfectados}>
                   {this.state.dataIsLoad && this.state.data.confirmed.value.toLocaleString()}

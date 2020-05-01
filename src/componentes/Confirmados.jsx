@@ -31,8 +31,16 @@ const Confirmados = (props) =>{
                                     position = { [casoConfirmado.location.lat, casoConfirmado.location.lng]}
                                     icon = {icon}
                                     onmouseover = { () => {
-                                        setCasoConfirmadoActivo(null);
-                                        setCasoConfirmadoActivo(casoConfirmado)
+                                        if(!window.matchMedia("(max-width: 640px)").matches){ // verifica el tamaño del dispositivo
+                                            setCasoConfirmadoActivo(null);
+                                            setCasoConfirmadoActivo(casoConfirmado)
+                                        }
+                                    }}
+                                    onclick = { () => {
+                                        if(window.matchMedia("(max-width: 640px)").matches){
+                                            setCasoConfirmadoActivo(null);
+                                            setCasoConfirmadoActivo(casoConfirmado)
+                                        }
                                     }}
                                 />
                             )

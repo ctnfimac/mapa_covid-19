@@ -14,9 +14,9 @@ class NavbarPage extends Component {
     render() {
     return (
         <Router>
-        <MDBNavbar color="indigo" dark expand="md">
+        <MDBNavbar color="indigo" dark expand="md" className="fixed-top w-100">
             <MDBNavbarBrand>
-                <strong className="white-text">MAPA COVID-19</strong>
+                <strong className="white-text">MAP COVID-19</strong>
             </MDBNavbarBrand>
             {/* <MDBNavbarToggler onClick={this.toggleCollapse} /> */}
             <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
