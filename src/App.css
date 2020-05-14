@@ -1,24 +1,37 @@
 html, body, #root{
-  background-color: #212121
+  background-color: #131313
 }
 
 .leaflet-container{
   width: 100%;
-  height: 88vh;
+  height: 91vh;
   margin-top: 30px;
 }
 
 
 .request-popup .leaflet-popup-content-wrapper {
   border-radius: 2px;
-  background-color: #212121;
+  background-color: #101010;
 }
 
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {
-  background: #212121;
+  background: #101010;
   box-shadow: 0 1px 5px rgba(250,0,0,0.4);
 }
 
 .leaflet-popup-tip, .leaflet-popup-tip-container{
-  color: #212121;
+  color: #101010;
 }
+
+
+input[type="text"]::placeholder { /* Firefox, Chrome, Opera */ 
+  color: #ccc; 
+} 
+
+input[type="text"]:-ms-input-placeholder { /* Internet Explorer 10-11 */ 
+  color: #ccc; 
+} 
+
+input[type="text"]::-ms-input-placeholder { /* Microsoft Edge */ 
+  color: #ccc; 
+} 

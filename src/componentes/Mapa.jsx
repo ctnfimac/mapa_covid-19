@@ -1,6 +1,5 @@
 import React from 'react'
 import { Map, TileLayer} from 'react-leaflet'
-import '../App.css'
 import Confirmados from './Confirmados'
 
 const Mapa = () => {
