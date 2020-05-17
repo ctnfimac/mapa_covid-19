@@ -23,7 +23,7 @@ html, body, #root{
   color: #101010;
 }
 
-
+/* color del placeholder del buscador*/
 input[type="text"]::placeholder { /* Firefox, Chrome, Opera */ 
   color: #ccc; 
 } 
@@ -35,3 +35,30 @@ input[type="text"]:-ms-input-placeholder { /* Internet Explorer 10-11 */
 input[type="text"]::-ms-input-placeholder { /* Microsoft Edge */ 
   color: #ccc; 
 } 
+
+/* estilos del contenido del buscador*/
+.listabuscador{
+  top:5.5em; 
+  width:95%;
+}
+
+.listabuscador *{
+  transition: 0.4s ;
+}
+
+.listabuscador *:hover{
+  background-color: #e3f2fd;
+  cursor: pointer;
+}
+
+@media (min-width:36em){
+  .listabuscador{
+    width:265px;
+  } 
+} 
+
+@media (min-width:45em){
+  .listabuscador{
+    top:3.1em; 
+  } 
+}

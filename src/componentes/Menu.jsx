@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBCollapse, MDBFormInline, MDBNavbarToggler} from "mdbreact";
+import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBCollapse, MDBFormInline, MDBNavbarToggler, MDBListGroup, MDBListGroupItem} from "mdbreact";
 import { BrowserRouter as Router } from 'react-router-dom';
 import { fondoBuscador } from './menuStyles'
 
@@ -34,6 +34,13 @@ class NavbarPage extends Component {
                 </div>
                 </MDBFormInline> 
                 </MDBNavItem>
+                <MDBListGroup className="position-absolute listabuscador">
+                    <MDBListGroupItem className="itempais">Argentina</MDBListGroupItem>
+                    <MDBListGroupItem>Perú</MDBListGroupItem>
+                    <MDBListGroupItem>Brasil</MDBListGroupItem>
+                    <MDBListGroupItem>Paraguay</MDBListGroupItem>
+                    <MDBListGroupItem>Bolivia</MDBListGroupItem>
+                </MDBListGroup>
             </MDBNavbarNav> 
             </MDBCollapse>
         </MDBNavbar>
