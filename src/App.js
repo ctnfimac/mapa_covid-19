@@ -5,13 +5,15 @@ import Sidebar from './componentes/Sidebar'
 import '@fortawesome/fontawesome-free/css/all.min.css'; 
 import 'bootstrap-css-only/css/bootstrap.min.css'; 
 import 'mdbreact/dist/css/mdb.css';
-import './App.css'
+import './App.css';
+import { Provider } from 'react-redux';
 
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
+import store from './redux/store';
 
 function App() {
   return (
-      <React.Fragment>
+      <Provider store={store}>
         <Menu />
         <MDBContainer fluid>
           <MDBRow>
@@ -23,7 +25,7 @@ function App() {
             </MDBCol>
           </MDBRow>
         </MDBContainer>
-      </React.Fragment>
+      </Provider>
   );
 }
 

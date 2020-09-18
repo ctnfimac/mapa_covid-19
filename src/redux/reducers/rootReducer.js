@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
-import paises from './mapaReducers';
+import buscador from './buscadorReducer';
 
 
 const rootReducers = combineReducers({
-    paises
-})
+    buscador
+});
 
 
 export default rootReducers;

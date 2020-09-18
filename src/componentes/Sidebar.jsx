@@ -1,13 +1,14 @@
 import React, { Component } from 'react'
-import { MDBCard, MDBCardText, MDBCardHeader, MDBListGroup, MDBListGroupItem, MDBBadge} from "mdbreact";
+import { MDBCard, MDBCardText, MDBCardHeader } from "mdbreact";
 
 import { textInfectados, textFallecidos ,textRecuperados } from "./popupStyles";
+import ResultadoBuscadorPais from './buscador/ResultadoBuscadorPais';
 
 
 class Sidebar extends Component{
 
-    constructor(props){
-      super(props)
+    constructor(){
+      super()
       this.state = {
           data: null,
           dataIsLoad: false  
@@ -46,25 +47,9 @@ class Sidebar extends Component{
                   {this.state.dataIsLoad && this.state.data.recovered.value.toLocaleString()}
                 </MDBCardText>
             </MDBCard>
-            <MDBCard  className="card-body p-0 elegant-color-dark" style={{ marginTop: "5rem"}}>  
-                <MDBCardHeader className="pb-1 elegant-color-dark"><h3 className="white-text">ARGENTINA</h3></MDBCardHeader>
-                <MDBCardText className="text-center">
-                  <MDBListGroup>
-                  <MDBListGroupItem className="d-flex justify-content-between align-items-center elegant-color-dark grey-text">
-                      Infectados:
-                      <MDBBadge className="pl-2 pr-2" color="indigo lighten-1" pill style={{fontSize:"1em"}}>6879</MDBBadge>
-                  </MDBListGroupItem>
-                  <MDBListGroupItem className="d-flex justify-content-between align-items-center elegant-color-dark grey-text">
-                      Recuperados:
-                      <MDBBadge className="pl-2 pr-2" color="indigo lighten-1" pill style={{fontSize:"1em"}}>2266</MDBBadge>
-                  </MDBListGroupItem>
-                  <MDBListGroupItem className="d-flex justify-content-between align-items-center elegant-color-dark grey-text">
-                      Fallecidos:
-                      <MDBBadge className="pl-2 pr-2" color="indigo lighten-1" pill style={{fontSize:"1em"}}>329</MDBBadge>
-                  </MDBListGroupItem>
-                </MDBListGroup>
-                </MDBCardText>
-            </MDBCard>
+             <MDBCard  className="card-body p-0 elegant-color-dark" style={{ marginTop: "5rem"}}>  
+            </MDBCard> 
+            <ResultadoBuscadorPais />
         </React.Fragment>
       )
     }  
