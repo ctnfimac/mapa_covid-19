@@ -1,0 +1,4321 @@
+[
+    {
+       "provincestate": "",
+       "countryregion": "Afghanistan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 33.93911,
+          "lng": 67.70995
+       },
+       "countrycode": {
+          "iso2": "AF",
+          "iso3": "AFG"
+       },
+       "confirmed": 58214,
+       "deaths": 2557,
+       "recovered": 52301
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Albania",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.1533,
+          "lng": 20.1683
+       },
+       "countrycode": {
+          "iso2": "AL",
+          "iso3": "ALB"
+       },
+       "confirmed": 129980,
+       "deaths": 2358,
+       "recovered": 103066
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Algeria",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 28.0339,
+          "lng": 1.6596
+       },
+       "countrycode": {
+          "iso2": "DZ",
+          "iso3": "DZA"
+       },
+       "confirmed": 120174,
+       "deaths": 3172,
+       "recovered": 83765
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Andorra",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 42.5063,
+          "lng": 1.5218
+       },
+       "countrycode": {
+          "iso2": "AD",
+          "iso3": "AND"
+       },
+       "confirmed": 12917,
+       "deaths": 123,
+       "recovered": 12334
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Angola",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -11.2027,
+          "lng": 17.8739
+       },
+       "countrycode": {
+          "iso2": "AO",
+          "iso3": "AGO"
+       },
+       "confirmed": 24883,
+       "deaths": 570,
+       "recovered": 22882
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Antigua and Barbuda",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 17.0608,
+          "lng": -61.7964
+       },
+       "countrycode": {
+          "iso2": "AG",
+          "iso3": "ATG"
+       },
+       "confirmed": 1217,
+       "deaths": 31,
+       "recovered": 995
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Argentina",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -38.4161,
+          "lng": -63.6167
+       },
+       "countrycode": {
+          "iso2": "AR",
+          "iso3": "ARG"
+       },
+       "confirmed": 2769552,
+       "deaths": 60083,
+       "recovered": 2424675
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Armenia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 40.0691,
+          "lng": 45.0382
+       },
+       "countrycode": {
+          "iso2": "AM",
+          "iso3": "ARM"
+       },
+       "confirmed": 210518,
+       "deaths": 3944,
+       "recovered": 190271
+    },
+    {
+       "provincestate": "Australian Capital Territory",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -35.4735,
+          "lng": 149.0124
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 123,
+       "deaths": 3,
+       "recovered": 120
+    },
+    {
+       "provincestate": "New South Wales",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -33.8688,
+          "lng": 151.2093
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 5402,
+       "deaths": 54,
+       "recovered": 0
+    },
+    {
+       "provincestate": "Northern Territory",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -12.4634,
+          "lng": 130.8456
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 136,
+       "deaths": 0,
+       "recovered": 111
+    },
+    {
+       "provincestate": "Queensland",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -27.4698,
+          "lng": 153.0251
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 1520,
+       "deaths": 7,
+       "recovered": 1451
+    },
+    {
+       "provincestate": "South Australia",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -34.9285,
+          "lng": 138.6007
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 693,
+       "deaths": 4,
+       "recovered": 669
+    },
+    {
+       "provincestate": "Tasmania",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -42.8821,
+          "lng": 147.3272
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 234,
+       "deaths": 13,
+       "recovered": 221
+    },
+    {
+       "provincestate": "Victoria",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -37.8136,
+          "lng": 144.9631
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 20504,
+       "deaths": 820,
+       "recovered": 19665
+    },
+    {
+       "provincestate": "Western Australia",
+       "countryregion": "Australia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -31.9505,
+          "lng": 115.8605
+       },
+       "countrycode": {
+          "iso2": "AU",
+          "iso3": "AUS"
+       },
+       "confirmed": 982,
+       "deaths": 9,
+       "recovered": 944
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Austria",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 47.5162,
+          "lng": 14.5501
+       },
+       "countrycode": {
+          "iso2": "AT",
+          "iso3": "AUT"
+       },
+       "confirmed": 600089,
+       "deaths": 9997,
+       "recovered": 563256
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Azerbaijan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 40.1431,
+          "lng": 47.5769
+       },
+       "countrycode": {
+          "iso2": "AZ",
+          "iso3": "AZE"
+       },
+       "confirmed": 305933,
+       "deaths": 4235,
+       "recovered": 269965
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bahamas",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 25.025885,
+          "lng": -78.03589
+       },
+       "confirmed": 9868,
+       "deaths": 194,
+       "recovered": 9140
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bahrain",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 26.0275,
+          "lng": 50.55
+       },
+       "countrycode": {
+          "iso2": "BH",
+          "iso3": "BHR"
+       },
+       "confirmed": 167165,
+       "deaths": 607,
+       "recovered": 155768
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bangladesh",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.685,
+          "lng": 90.3563
+       },
+       "countrycode": {
+          "iso2": "BD",
+          "iso3": "BGD"
+       },
+       "confirmed": 732060,
+       "deaths": 10683,
+       "recovered": 635183
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Barbados",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 13.1939,
+          "lng": -59.5432
+       },
+       "countrycode": {
+          "iso2": "BB",
+          "iso3": "BRB"
+       },
+       "confirmed": 3797,
+       "deaths": 44,
+       "recovered": 3704
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Belarus",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 53.7098,
+          "lng": 27.9534
+       },
+       "countrycode": {
+          "iso2": "BY",
+          "iso3": "BLR"
+       },
+       "confirmed": 347316,
+       "deaths": 2453,
+       "recovered": 337620
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Belgium",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 50.8333,
+          "lng": 4.469936
+       },
+       "countrycode": {
+          "iso2": "BE",
+          "iso3": "BEL"
+       },
+       "confirmed": 960169,
+       "deaths": 23867,
+       "recovered": 0
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Belize",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 17.1899,
+          "lng": -88.4976
+       },
+       "countrycode": {
+          "iso2": "BZ",
+          "iso3": "BLZ"
+       },
+       "confirmed": 12585,
+       "deaths": 318,
+       "recovered": 12164
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Benin",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 9.3077,
+          "lng": 2.3158
+       },
+       "countrycode": {
+          "iso2": "BJ",
+          "iso3": "BEN"
+       },
+       "confirmed": 7720,
+       "deaths": 97,
+       "recovered": 7510
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bhutan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 27.5142,
+          "lng": 90.4336
+       },
+       "countrycode": {
+          "iso2": "BT",
+          "iso3": "BTN"
+       },
+       "confirmed": 986,
+       "deaths": 1,
+       "recovered": 883
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bolivia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -16.2902,
+          "lng": -63.5887
+       },
+       "countrycode": {
+          "iso2": "BO",
+          "iso3": "BOL"
+       },
+       "confirmed": 293061,
+       "deaths": 12731,
+       "recovered": 241563
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bosnia and Herzegovina",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 43.9159,
+          "lng": 17.6791
+       },
+       "countrycode": {
+          "iso2": "BA",
+          "iso3": "BIH"
+       },
+       "confirmed": 193115,
+       "deaths": 8082,
+       "recovered": 150458
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Botswana",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -22.3285,
+          "lng": 24.6849
+       },
+       "countrycode": {
+          "iso2": "BW",
+          "iso3": "BWA"
+       },
+       "confirmed": 44702,
+       "deaths": 684,
+       "recovered": 39733
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Brazil",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -14.235,
+          "lng": -51.9253
+       },
+       "countrycode": {
+          "iso2": "BR",
+          "iso3": "BRA"
+       },
+       "confirmed": 14122795,
+       "deaths": 381475,
+       "recovered": 12436210
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Brunei",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 4.5353,
+          "lng": 114.7277
+       },
+       "countrycode": {
+          "iso2": "BN",
+          "iso3": "BRN"
+       },
+       "confirmed": 223,
+       "deaths": 3,
+       "recovered": 210
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Bulgaria",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 42.7339,
+          "lng": 25.4858
+       },
+       "countrycode": {
+          "iso2": "BG",
+          "iso3": "BGR"
+       },
+       "confirmed": 392913,
+       "deaths": 15618,
+       "recovered": 318208
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Burkina Faso",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.2383,
+          "lng": -1.5616
+       },
+       "countrycode": {
+          "iso2": "BF",
+          "iso3": "BFA"
+       },
+       "confirmed": 13167,
+       "deaths": 155,
+       "recovered": 12812
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Burma",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 21.9162,
+          "lng": 95.956
+       },
+       "confirmed": 142661,
+       "deaths": 3206,
+       "recovered": 131908
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Burundi",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -3.3731,
+          "lng": 29.9189
+       },
+       "countrycode": {
+          "iso2": "BI",
+          "iso3": "BDI"
+       },
+       "confirmed": 3706,
+       "deaths": 6,
+       "recovered": 773
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Cabo Verde",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 16.5388,
+          "lng": -23.0418
+       },
+       "confirmed": 21179,
+       "deaths": 198,
+       "recovered": 18500
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Cambodia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 11.55,
+          "lng": 104.9167
+       },
+       "countrycode": {
+          "iso2": "KH",
+          "iso3": "KHM"
+       },
+       "confirmed": 7747,
+       "deaths": 54,
+       "recovered": 2794
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Cameroon",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 3.848,
+          "lng": 11.5021
+       },
+       "countrycode": {
+          "iso2": "CM",
+          "iso3": "CMR"
+       },
+       "confirmed": 64809,
+       "deaths": 939,
+       "recovered": 35261
+    },
+    {
+       "provincestate": "Alberta",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 53.9333,
+          "lng": -116.5765
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 175230,
+       "deaths": 2048
+    },
+    {
+       "provincestate": "British Columbia",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 53.7267,
+          "lng": -127.6476
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 121751,
+       "deaths": 1546
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Diamond Princess",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 0,
+          "lng": 0
+       },
+       "confirmed": 712,
+       "deaths": 13,
+       "recovered": 699
+    },
+    {
+       "provincestate": "Grand Princess",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 0,
+          "lng": 0
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 13,
+       "deaths": 0
+    },
+    {
+       "provincestate": "Manitoba",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 53.7609,
+          "lng": -98.8139
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 36632,
+       "deaths": 961
+    },
+    {
+       "provincestate": "New Brunswick",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.5653,
+          "lng": -66.4619
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 1804,
+       "deaths": 34
+    },
+    {
+       "provincestate": "Newfoundland and Labrador",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 53.1355,
+          "lng": -57.6604
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 1049,
+       "deaths": 6
+    },
+    {
+       "provincestate": "Northwest Territories",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 64.8255,
+          "lng": -124.8457
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 51,
+       "deaths": 0
+    },
+    {
+       "provincestate": "Nova Scotia",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 44.682,
+          "lng": -63.7443
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 1856,
+       "deaths": 67
+    },
+    {
+       "provincestate": "Nunavut",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 70.2998,
+          "lng": -83.1076
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 429,
+       "deaths": 4
+    },
+    {
+       "provincestate": "Ontario",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 51.2538,
+          "lng": -85.3232
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 436693,
+       "deaths": 7786
+    },
+    {
+       "provincestate": "Prince Edward Island",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.5107,
+          "lng": -63.4168
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 174,
+       "deaths": 0
+    },
+    {
+       "provincestate": "Quebec",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 52.9399,
+          "lng": -73.5491
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 340397,
+       "deaths": 10838
+    },
+    {
+       "provincestate": "Repatriated Travellers",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 0,
+          "lng": 0
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 13,
+       "deaths": 0
+    },
+    {
+       "provincestate": "Saskatchewan",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 52.9399,
+          "lng": -106.4509
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 38883,
+       "deaths": 469
+    },
+    {
+       "provincestate": "Yukon",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 64.2823,
+          "lng": -135
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "confirmed": 78,
+       "deaths": 1
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Central African Republic",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 6.6111,
+          "lng": 20.9394
+       },
+       "countrycode": {
+          "iso2": "CF",
+          "iso3": "CAF"
+       },
+       "confirmed": 6175,
+       "deaths": 85,
+       "recovered": 5112
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Chad",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.4542,
+          "lng": 18.7322
+       },
+       "countrycode": {
+          "iso2": "TD",
+          "iso3": "TCD"
+       },
+       "confirmed": 4731,
+       "deaths": 169,
+       "recovered": 4368
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Chile",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -35.6751,
+          "lng": -71.543
+       },
+       "countrycode": {
+          "iso2": "CL",
+          "iso3": "CHL"
+       },
+       "confirmed": 1141403,
+       "deaths": 25353,
+       "recovered": 1074827
+    },
+    {
+       "provincestate": "Anhui",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.8257,
+          "lng": 117.2264
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 994,
+       "deaths": 6,
+       "recovered": 988
+    },
+    {
+       "provincestate": "Beijing",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 40.1824,
+          "lng": 116.4142
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1057,
+       "deaths": 9,
+       "recovered": 1038
+    },
+    {
+       "provincestate": "Chongqing",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 30.0572,
+          "lng": 107.874
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 591,
+       "deaths": 6,
+       "recovered": 585
+    },
+    {
+       "provincestate": "Fujian",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 26.0789,
+          "lng": 117.9874
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 586,
+       "deaths": 1,
+       "recovered": 559
+    },
+    {
+       "provincestate": "Gansu",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 35.7518,
+          "lng": 104.2861
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 193,
+       "deaths": 2,
+       "recovered": 190
+    },
+    {
+       "provincestate": "Guangdong",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.3417,
+          "lng": 113.4244
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 2322,
+       "deaths": 8,
+       "recovered": 2273
+    },
+    {
+       "provincestate": "Guangxi",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.8298,
+          "lng": 108.7881
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 270,
+       "deaths": 2,
+       "recovered": 265
+    },
+    {
+       "provincestate": "Guizhou",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 26.8154,
+          "lng": 106.8748
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 147,
+       "deaths": 2,
+       "recovered": 145
+    },
+    {
+       "provincestate": "Hainan",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 19.1959,
+          "lng": 109.7453
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 187,
+       "deaths": 6,
+       "recovered": 165
+    },
+    {
+       "provincestate": "Hebei",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 39.549,
+          "lng": 116.1306
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1317,
+       "deaths": 7,
+       "recovered": 1310
+    },
+    {
+       "provincestate": "Heilongjiang",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 47.862,
+          "lng": 127.7615
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1610,
+       "deaths": 13,
+       "recovered": 1597
+    },
+    {
+       "provincestate": "Henan",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 37.8957,
+          "lng": 114.9042
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1312,
+       "deaths": 22,
+       "recovered": 1285
+    },
+    {
+       "provincestate": "Hong Kong",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 22.3,
+          "lng": 114.2
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 11704,
+       "deaths": 209,
+       "recovered": 11302
+    },
+    {
+       "provincestate": "Hubei",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 30.9756,
+          "lng": 112.2707
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 68157,
+       "deaths": 4512,
+       "recovered": 63640
+    },
+    {
+       "provincestate": "Hunan",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 27.6104,
+          "lng": 111.7088
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1044,
+       "deaths": 4,
+       "recovered": 1036
+    },
+    {
+       "provincestate": "Inner Mongolia",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 44.0935,
+          "lng": 113.9448
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 379,
+       "deaths": 1,
+       "recovered": 376
+    },
+    {
+       "provincestate": "Jiangsu",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 32.9711,
+          "lng": 119.455
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 716,
+       "deaths": 0,
+       "recovered": 708
+    },
+    {
+       "provincestate": "Jiangxi",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 27.614,
+          "lng": 115.7221
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 937,
+       "deaths": 1,
+       "recovered": 936
+    },
+    {
+       "provincestate": "Jilin",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 43.6661,
+          "lng": 126.1923
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 573,
+       "deaths": 3,
+       "recovered": 570
+    },
+    {
+       "provincestate": "Liaoning",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.2956,
+          "lng": 122.6085
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 408,
+       "deaths": 2,
+       "recovered": 405
+    },
+    {
+       "provincestate": "Macau",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 22.1667,
+          "lng": 113.55
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 49,
+       "deaths": 0,
+       "recovered": 48
+    },
+    {
+       "provincestate": "Ningxia",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 37.2692,
+          "lng": 106.1655
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 75,
+       "deaths": 0,
+       "recovered": 75
+    },
+    {
+       "provincestate": "Qinghai",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 35.7452,
+          "lng": 95.9956
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 18,
+       "deaths": 0,
+       "recovered": 18
+    },
+    {
+       "provincestate": "Shaanxi",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 35.1917,
+          "lng": 108.8701
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 587,
+       "deaths": 3,
+       "recovered": 568
+    },
+    {
+       "provincestate": "Shandong",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 36.3427,
+          "lng": 118.1498
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 876,
+       "deaths": 7,
+       "recovered": 862
+    },
+    {
+       "provincestate": "Shanghai",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.202,
+          "lng": 121.4491
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1950,
+       "deaths": 7,
+       "recovered": 1885
+    },
+    {
+       "provincestate": "Shanxi",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 37.5777,
+          "lng": 112.2922
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 249,
+       "deaths": 0,
+       "recovered": 242
+    },
+    {
+       "provincestate": "Sichuan",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 30.6171,
+          "lng": 102.7103
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 965,
+       "deaths": 3,
+       "recovered": 946
+    },
+    {
+       "provincestate": "Tianjin",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 39.3054,
+          "lng": 117.323
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 383,
+       "deaths": 3,
+       "recovered": 370
+    },
+    {
+       "provincestate": "Tibet",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.6927,
+          "lng": 88.0924
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1,
+       "deaths": 0,
+       "recovered": 1
+    },
+    {
+       "provincestate": "Xinjiang",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.1129,
+          "lng": 85.2401
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 980,
+       "deaths": 3,
+       "recovered": 977
+    },
+    {
+       "provincestate": "Yunnan",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 24.974,
+          "lng": 101.487
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 334,
+       "deaths": 2,
+       "recovered": 269
+    },
+    {
+       "provincestate": "Zhejiang",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 29.1832,
+          "lng": 120.0934
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 1329,
+       "deaths": 1,
+       "recovered": 1320
+    },
+    {
+       "provincestate": "Unknown",
+       "countryregion": "China",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 0,
+          "lng": 0
+       },
+       "countrycode": {
+          "iso2": "CN",
+          "iso3": "CHN"
+       },
+       "confirmed": 0,
+       "deaths": 0,
+       "recovered": 4
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Colombia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 4.5709,
+          "lng": -74.2973
+       },
+       "countrycode": {
+          "iso2": "CO",
+          "iso3": "COL"
+       },
+       "confirmed": 2701313,
+       "deaths": 69596,
+       "recovered": 2521944
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Comoros",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -11.6455,
+          "lng": 43.3333
+       },
+       "countrycode": {
+          "iso2": "KM",
+          "iso3": "COM"
+       },
+       "confirmed": 3822,
+       "deaths": 146,
+       "recovered": 3645
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Congo (Brazzaville)",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -0.228,
+          "lng": 15.8277
+       },
+       "confirmed": 10084,
+       "deaths": 139,
+       "recovered": 8208
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Congo (Kinshasa)",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -4.0383,
+          "lng": 21.7587
+       },
+       "confirmed": 29233,
+       "deaths": 748,
+       "recovered": 26108
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Costa Rica",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 9.7489,
+          "lng": -83.7534
+       },
+       "countrycode": {
+          "iso2": "CR",
+          "iso3": "CRI"
+       },
+       "confirmed": 233498,
+       "deaths": 3115,
+       "recovered": 199379
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Cote d'Ivoire",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 7.54,
+          "lng": -5.5471
+       },
+       "countrycode": {
+          "iso2": "CI",
+          "iso3": "CIV"
+       },
+       "confirmed": 45697,
+       "deaths": 277,
+       "recovered": 45227
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Croatia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 45.1,
+          "lng": 15.2
+       },
+       "countrycode": {
+          "iso2": "HR",
+          "iso3": "HRV"
+       },
+       "confirmed": 313423,
+       "deaths": 6692,
+       "recovered": 291351
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Cuba",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 21.521757,
+          "lng": -77.781166
+       },
+       "countrycode": {
+          "iso2": "CU",
+          "iso3": "CUB"
+       },
+       "confirmed": 96760,
+       "deaths": 547,
+       "recovered": 91034
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Cyprus",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 35.1264,
+          "lng": 33.4299
+       },
+       "countrycode": {
+          "iso2": "CY",
+          "iso3": "CYP"
+       },
+       "confirmed": 58865,
+       "deaths": 295,
+       "recovered": 39061
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Czechia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 49.8175,
+          "lng": 15.473
+       },
+       "confirmed": 1609861,
+       "deaths": 28711,
+       "recovered": 1517774
+    },
+    {
+       "provincestate": "Faroe Islands",
+       "countryregion": "Denmark",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 61.8926,
+          "lng": -6.9118
+       },
+       "countrycode": {
+          "iso2": "DK",
+          "iso3": "DNK"
+       },
+       "confirmed": 663,
+       "deaths": 1,
+       "recovered": 660
+    },
+    {
+       "provincestate": "Greenland",
+       "countryregion": "Denmark",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 71.7069,
+          "lng": -42.6043
+       },
+       "countrycode": {
+          "iso2": "DK",
+          "iso3": "DNK"
+       },
+       "confirmed": 31,
+       "deaths": 0,
+       "recovered": 31
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Denmark",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 56.2639,
+          "lng": 9.5018
+       },
+       "countrycode": {
+          "iso2": "DK",
+          "iso3": "DNK"
+       },
+       "confirmed": 244868,
+       "deaths": 2465,
+       "recovered": 232899
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Djibouti",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 11.8251,
+          "lng": 42.5903
+       },
+       "countrycode": {
+          "iso2": "DJ",
+          "iso3": "DJI"
+       },
+       "confirmed": 10633,
+       "deaths": 129,
+       "recovered": 9801
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Dominica",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.415,
+          "lng": -61.371
+       },
+       "countrycode": {
+          "iso2": "DM",
+          "iso3": "DMA"
+       },
+       "confirmed": 172,
+       "deaths": 0,
+       "recovered": 165
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Dominican Republic",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.7357,
+          "lng": -70.1627
+       },
+       "countrycode": {
+          "iso2": "DO",
+          "iso3": "DOM"
+       },
+       "confirmed": 262404,
+       "deaths": 3435,
+       "recovered": 219645
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Ecuador",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -1.8312,
+          "lng": -78.1834
+       },
+       "countrycode": {
+          "iso2": "EC",
+          "iso3": "ECU"
+       },
+       "confirmed": 362843,
+       "deaths": 17804,
+       "recovered": 309541
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Egypt",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 26.820553,
+          "lng": 30.802498
+       },
+       "countrycode": {
+          "iso2": "EG",
+          "iso3": "EGY"
+       },
+       "confirmed": 218902,
+       "deaths": 12866,
+       "recovered": 164803
+    },
+    {
+       "provincestate": "",
+       "countryregion": "El Salvador",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 13.7942,
+          "lng": -88.8965
+       },
+       "countrycode": {
+          "iso2": "SV",
+          "iso3": "SLV"
+       },
+       "confirmed": 68007,
+       "deaths": 2086,
+       "recovered": 64074
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Equatorial Guinea",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 1.6508,
+          "lng": 10.2679
+       },
+       "countrycode": {
+          "iso2": "GQ",
+          "iso3": "GNQ"
+       },
+       "confirmed": 7505,
+       "deaths": 106,
+       "recovered": 7016
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Eritrea",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.1794,
+          "lng": 39.7823
+       },
+       "countrycode": {
+          "iso2": "ER",
+          "iso3": "ERI"
+       },
+       "confirmed": 3564,
+       "deaths": 10,
+       "recovered": 3389
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Estonia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 58.5953,
+          "lng": 25.0136
+       },
+       "countrycode": {
+          "iso2": "EE",
+          "iso3": "EST"
+       },
+       "confirmed": 118789,
+       "deaths": 1109,
+       "recovered": 104653
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Eswatini",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -26.5225,
+          "lng": 31.4659
+       },
+       "confirmed": 18423,
+       "deaths": 671,
+       "recovered": 17721
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Ethiopia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 9.145,
+          "lng": 40.4897
+       },
+       "countrycode": {
+          "iso2": "ET",
+          "iso3": "ETH"
+       },
+       "confirmed": 246484,
+       "deaths": 3474,
+       "recovered": 183932
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Fiji",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -17.7134,
+          "lng": 178.065
+       },
+       "countrycode": {
+          "iso2": "FJ",
+          "iso3": "FJI"
+       },
+       "confirmed": 78,
+       "deaths": 2,
+       "recovered": 65
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Finland",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 61.92411,
+          "lng": 25.748152
+       },
+       "countrycode": {
+          "iso2": "FI",
+          "iso3": "FIN"
+       },
+       "confirmed": 84797,
+       "deaths": 899,
+       "recovered": 46000
+    },
+    {
+       "provincestate": "French Guiana",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 3.9339,
+          "lng": -53.1258
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 18261,
+       "deaths": 96,
+       "recovered": 9995
+    },
+    {
+       "provincestate": "French Polynesia",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -17.6797,
+          "lng": 149.4068
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 18722,
+       "deaths": 141,
+       "recovered": 4842
+    },
+    {
+       "provincestate": "Guadeloupe",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 16.265,
+          "lng": -61.551
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 12927,
+       "deaths": 194,
+       "recovered": 2242
+    },
+    {
+       "provincestate": "Martinique",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 14.6415,
+          "lng": -61.0242
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 9758,
+       "deaths": 66,
+       "recovered": 98
+    },
+    {
+       "provincestate": "Mayotte",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -12.8275,
+          "lng": 45.166245
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 19849,
+       "deaths": 169,
+       "recovered": 2964
+    },
+    {
+       "provincestate": "New Caledonia",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -20.904305,
+          "lng": 165.61804
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 124,
+       "deaths": 0,
+       "recovered": 58
+    },
+    {
+       "provincestate": "Reunion",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -21.1151,
+          "lng": 55.5364
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 19343,
+       "deaths": 141,
+       "recovered": 17653
+    },
+    {
+       "provincestate": "Saint Barthelemy",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 17.9,
+          "lng": -62.8333
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 934,
+       "deaths": 1,
+       "recovered": 462
+    },
+    {
+       "provincestate": "Saint Pierre and Miquelon",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.8852,
+          "lng": -56.3159
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 25,
+       "deaths": 0,
+       "recovered": 24
+    },
+    {
+       "provincestate": "St Martin",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.0708,
+          "lng": -63.0501
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 1702,
+       "deaths": 12,
+       "recovered": 1399
+    },
+    {
+       "provincestate": "Wallis and Futuna",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -14.2938,
+          "lng": -178.1165
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 440,
+       "deaths": 5,
+       "recovered": 44
+    },
+    {
+       "provincestate": "",
+       "countryregion": "France",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.2276,
+          "lng": 2.2137
+       },
+       "countrycode": {
+          "iso2": "FR",
+          "iso3": "FRA"
+       },
+       "confirmed": 5334144,
+       "deaths": 101221,
+       "recovered": 292859
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Gabon",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -0.8037,
+          "lng": 11.6094
+       },
+       "countrycode": {
+          "iso2": "GA",
+          "iso3": "GAB"
+       },
+       "confirmed": 22228,
+       "deaths": 136,
+       "recovered": 18908
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Gambia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 13.4432,
+          "lng": -15.3101
+       },
+       "confirmed": 5788,
+       "deaths": 171,
+       "recovered": 5248
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Georgia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 42.3154,
+          "lng": 43.3569
+       },
+       "countrycode": {
+          "iso2": "GE",
+          "iso3": "GEO"
+       },
+       "confirmed": 299038,
+       "deaths": 3971,
+       "recovered": 282869
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Germany",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 51.16569,
+          "lng": 10.451526
+       },
+       "countrycode": {
+          "iso2": "DE",
+          "iso3": "DEU"
+       },
+       "confirmed": 3222888,
+       "deaths": 80938,
+       "recovered": 2852890
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Ghana",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 7.9465,
+          "lng": -1.0232
+       },
+       "countrycode": {
+          "iso2": "GH",
+          "iso3": "GHA"
+       },
+       "confirmed": 91783,
+       "deaths": 772,
+       "recovered": 89661
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Greece",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 39.0742,
+          "lng": 21.8243
+       },
+       "countrycode": {
+          "iso2": "GR",
+          "iso3": "GRC"
+       },
+       "confirmed": 323639,
+       "deaths": 9713,
+       "recovered": 93764
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Grenada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.1165,
+          "lng": -61.679
+       },
+       "countrycode": {
+          "iso2": "GD",
+          "iso3": "GRD"
+       },
+       "confirmed": 157,
+       "deaths": 1,
+       "recovered": 154
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Guatemala",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.7835,
+          "lng": -90.2308
+       },
+       "countrycode": {
+          "iso2": "GT",
+          "iso3": "GTM"
+       },
+       "confirmed": 216329,
+       "deaths": 7309,
+       "recovered": 193313
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Guinea",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 9.9456,
+          "lng": -9.6966
+       },
+       "countrycode": {
+          "iso2": "GN",
+          "iso3": "GIN"
+       },
+       "confirmed": 21666,
+       "deaths": 139,
+       "recovered": 19004
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Guinea-Bissau",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 11.8037,
+          "lng": -15.1804
+       },
+       "countrycode": {
+          "iso2": "GW",
+          "iso3": "GNB"
+       },
+       "confirmed": 3713,
+       "deaths": 66,
+       "recovered": 3170
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Guyana",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 4.860416,
+          "lng": -58.93018
+       },
+       "countrycode": {
+          "iso2": "GY",
+          "iso3": "GUY"
+       },
+       "confirmed": 12132,
+       "deaths": 274,
+       "recovered": 10442
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Haiti",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.9712,
+          "lng": -72.2852
+       },
+       "countrycode": {
+          "iso2": "HT",
+          "iso3": "HTI"
+       },
+       "confirmed": 12918,
+       "deaths": 251,
+       "recovered": 11945
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Holy See",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.9029,
+          "lng": 12.4534
+       },
+       "confirmed": 27,
+       "deaths": 0,
+       "recovered": 15
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Honduras",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.2,
+          "lng": -86.2419
+       },
+       "countrycode": {
+          "iso2": "HN",
+          "iso3": "HND"
+       },
+       "confirmed": 202413,
+       "deaths": 4976,
+       "recovered": 76446
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Hungary",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 47.1625,
+          "lng": 19.5033
+       },
+       "countrycode": {
+          "iso2": "HU",
+          "iso3": "HUN"
+       },
+       "confirmed": 757360,
+       "deaths": 25787,
+       "recovered": 464750
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Iceland",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 64.9631,
+          "lng": -19.0208
+       },
+       "countrycode": {
+          "iso2": "IS",
+          "iso3": "ISL"
+       },
+       "confirmed": 6362,
+       "deaths": 29,
+       "recovered": 6213
+    },
+    {
+       "provincestate": "",
+       "countryregion": "India",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 20.593683,
+          "lng": 78.96288
+       },
+       "countrycode": {
+          "iso2": "IN",
+          "iso3": "IND"
+       },
+       "confirmed": 15930774,
+       "deaths": 184657,
+       "recovered": 13454880
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Indonesia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -0.7893,
+          "lng": 113.9213
+       },
+       "countrycode": {
+          "iso2": "ID",
+          "iso3": "IDN"
+       },
+       "confirmed": 1620569,
+       "deaths": 44007,
+       "recovered": 1475456
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Iran",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 32.42791,
+          "lng": 53.688046
+       },
+       "countrycode": {
+          "iso2": "IR",
+          "iso3": "IRN"
+       },
+       "confirmed": 2311813,
+       "deaths": 67913,
+       "recovered": 1823958
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Iraq",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 33.22319,
+          "lng": 43.67929
+       },
+       "countrycode": {
+          "iso2": "IQ",
+          "iso3": "IRQ"
+       },
+       "confirmed": 1001854,
+       "deaths": 15098,
+       "recovered": 877309
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Ireland",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 53.1424,
+          "lng": -7.6921
+       },
+       "countrycode": {
+          "iso2": "IE",
+          "iso3": "IRL"
+       },
+       "confirmed": 244695,
+       "deaths": 4856,
+       "recovered": 23364
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Israel",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.046051,
+          "lng": 34.851612
+       },
+       "countrycode": {
+          "iso2": "IL",
+          "iso3": "ISR"
+       },
+       "confirmed": 837492,
+       "deaths": 6346,
+       "recovered": 829127
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Italy",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.87194,
+          "lng": 12.56738
+       },
+       "countrycode": {
+          "iso2": "IT",
+          "iso3": "ITA"
+       },
+       "confirmed": 3904899,
+       "deaths": 117997,
+       "recovered": 3311267
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Jamaica",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.1096,
+          "lng": -77.2975
+       },
+       "countrycode": {
+          "iso2": "JM",
+          "iso3": "JAM"
+       },
+       "confirmed": 44337,
+       "deaths": 744,
+       "recovered": 20070
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Japan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 36.204823,
+          "lng": 138.25293
+       },
+       "countrycode": {
+          "iso2": "JP",
+          "iso3": "JPN"
+       },
+       "confirmed": 547836,
+       "deaths": 9737,
+       "recovered": 488788
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Jordan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.24,
+          "lng": 36.51
+       },
+       "countrycode": {
+          "iso2": "JO",
+          "iso3": "JOR"
+       },
+       "confirmed": 695390,
+       "deaths": 8429,
+       "recovered": 654493
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Kazakhstan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 48.0196,
+          "lng": 66.9237
+       },
+       "countrycode": {
+          "iso2": "KZ",
+          "iso3": "KAZ"
+       },
+       "confirmed": 349987,
+       "deaths": 3301,
+       "recovered": 305884
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Kenya",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -0.0236,
+          "lng": 37.9062
+       },
+       "countrycode": {
+          "iso2": "KE",
+          "iso3": "KEN"
+       },
+       "confirmed": 153488,
+       "deaths": 2540,
+       "recovered": 105279
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Korea, South",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 35.907757,
+          "lng": 127.76692
+       },
+       "countrycode": {
+          "iso2": "KR",
+          "iso3": "KOR"
+       },
+       "confirmed": 116661,
+       "deaths": 1808,
+       "recovered": 106459
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Kosovo",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 42.602634,
+          "lng": 20.902977
+       },
+       "confirmed": 101832,
+       "deaths": 2105,
+       "recovered": 88164
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Kuwait",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 29.31166,
+          "lng": 47.481766
+       },
+       "countrycode": {
+          "iso2": "KW",
+          "iso3": "KWT"
+       },
+       "confirmed": 261307,
+       "deaths": 1482,
+       "recovered": 244410
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Kyrgyzstan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.20438,
+          "lng": 74.7661
+       },
+       "countrycode": {
+          "iso2": "KG",
+          "iso3": "KGZ"
+       },
+       "confirmed": 92626,
+       "deaths": 1561,
+       "recovered": 87390
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Laos",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 19.85627,
+          "lng": 102.4955
+       },
+       "countrycode": {
+          "iso2": "LA",
+          "iso3": "LAO"
+       },
+       "confirmed": 88,
+       "deaths": 0,
+       "recovered": 49
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Latvia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 56.8796,
+          "lng": 24.6032
+       },
+       "countrycode": {
+          "iso2": "LV",
+          "iso3": "LVA"
+       },
+       "confirmed": 112983,
+       "deaths": 2079,
+       "recovered": 102596
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Lebanon",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 33.8547,
+          "lng": 35.8623
+       },
+       "countrycode": {
+          "iso2": "LB",
+          "iso3": "LBN"
+       },
+       "confirmed": 515088,
+       "deaths": 7027,
+       "recovered": 433987
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Lesotho",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -29.61,
+          "lng": 28.2336
+       },
+       "countrycode": {
+          "iso2": "LS",
+          "iso3": "LSO"
+       },
+       "confirmed": 10720,
+       "deaths": 316,
+       "recovered": 5975
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Liberia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 6.428055,
+          "lng": -9.429499
+       },
+       "countrycode": {
+          "iso2": "LR",
+          "iso3": "LBR"
+       },
+       "confirmed": 2091,
+       "deaths": 85,
+       "recovered": 1936
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Libya",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 26.3351,
+          "lng": 17.22833
+       },
+       "countrycode": {
+          "iso2": "LY",
+          "iso3": "LBY"
+       },
+       "confirmed": 173683,
+       "deaths": 2924,
+       "recovered": 158891
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Liechtenstein",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 47.14,
+          "lng": 9.55
+       },
+       "countrycode": {
+          "iso2": "LI",
+          "iso3": "LIE"
+       },
+       "confirmed": 2849,
+       "deaths": 56,
+       "recovered": 2708
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Lithuania",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 55.1694,
+          "lng": 23.8813
+       },
+       "countrycode": {
+          "iso2": "LT",
+          "iso3": "LTU"
+       },
+       "confirmed": 236533,
+       "deaths": 3802,
+       "recovered": 213970
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Luxembourg",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 49.8153,
+          "lng": 6.1296
+       },
+       "countrycode": {
+          "iso2": "LU",
+          "iso3": "LUX"
+       },
+       "confirmed": 65604,
+       "deaths": 788,
+       "recovered": 61791
+    },
+    {
+       "provincestate": "",
+       "countryregion": "MS Zaandam",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 0,
+          "lng": 0
+       },
+       "confirmed": 9,
+       "deaths": 2,
+       "recovered": 7
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Madagascar",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -18.766947,
+          "lng": 46.869106
+       },
+       "countrycode": {
+          "iso2": "MG",
+          "iso3": "MDG"
+       },
+       "confirmed": 33592,
+       "deaths": 569,
+       "recovered": 26610
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Malawi",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -13.2543,
+          "lng": 34.3015
+       },
+       "countrycode": {
+          "iso2": "MW",
+          "iso3": "MWI"
+       },
+       "confirmed": 33975,
+       "deaths": 1142,
+       "recovered": 31852
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Malaysia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 4.210484,
+          "lng": 101.97577
+       },
+       "countrycode": {
+          "iso2": "MY",
+          "iso3": "MYS"
+       },
+       "confirmed": 381813,
+       "deaths": 1400,
+       "recovered": 358726
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Maldives",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 3.2028,
+          "lng": 73.2207
+       },
+       "countrycode": {
+          "iso2": "MV",
+          "iso3": "MDV"
+       },
+       "confirmed": 26920,
+       "deaths": 71,
+       "recovered": 23935
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Mali",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 17.570692,
+          "lng": -3.996166
+       },
+       "countrycode": {
+          "iso2": "ML",
+          "iso3": "MLI"
+       },
+       "confirmed": 13336,
+       "deaths": 451,
+       "recovered": 7646
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Malta",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 35.9375,
+          "lng": 14.3754
+       },
+       "countrycode": {
+          "iso2": "MT",
+          "iso3": "MLT"
+       },
+       "confirmed": 30063,
+       "deaths": 411,
+       "recovered": 29130
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Marshall Islands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 7.1315,
+          "lng": 171.1845
+       },
+       "countrycode": {
+          "iso2": "MH",
+          "iso3": "MHL"
+       },
+       "confirmed": 4,
+       "deaths": 0,
+       "recovered": 4
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Mauritania",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 21.0079,
+          "lng": -10.9408
+       },
+       "countrycode": {
+          "iso2": "MR",
+          "iso3": "MRT"
+       },
+       "confirmed": 18175,
+       "deaths": 454,
+       "recovered": 17540
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Mauritius",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -20.348404,
+          "lng": 57.55215
+       },
+       "countrycode": {
+          "iso2": "MU",
+          "iso3": "MUS"
+       },
+       "confirmed": 1204,
+       "deaths": 15,
+       "recovered": 987
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Mexico",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.6345,
+          "lng": -102.5528
+       },
+       "countrycode": {
+          "iso2": "MX",
+          "iso3": "MEX"
+       },
+       "confirmed": 2315811,
+       "deaths": 213597,
+       "recovered": 1839381
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Micronesia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 7.4256,
+          "lng": 150.5508
+       },
+       "confirmed": 1,
+       "deaths": 0,
+       "recovered": 1
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Moldova",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 47.4116,
+          "lng": 28.3699
+       },
+       "countrycode": {
+          "iso2": "MD",
+          "iso3": "MDA"
+       },
+       "confirmed": 247391,
+       "deaths": 5643,
+       "recovered": 234204
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Monaco",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 43.7333,
+          "lng": 7.4167
+       },
+       "countrycode": {
+          "iso2": "MC",
+          "iso3": "MCO"
+       },
+       "confirmed": 2422,
+       "deaths": 31,
+       "recovered": 2308
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Mongolia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.8625,
+          "lng": 103.8467
+       },
+       "countrycode": {
+          "iso2": "MN",
+          "iso3": "MNG"
+       },
+       "confirmed": 25364,
+       "deaths": 56,
+       "recovered": 13346
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Montenegro",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 42.70868,
+          "lng": 19.37439
+       },
+       "countrycode": {
+          "iso2": "ME",
+          "iso3": "MNE"
+       },
+       "confirmed": 96048,
+       "deaths": 1444,
+       "recovered": 91679
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Morocco",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.7917,
+          "lng": -7.0926
+       },
+       "countrycode": {
+          "iso2": "MA",
+          "iso3": "MAR"
+       },
+       "confirmed": 507338,
+       "deaths": 8969,
+       "recovered": 493353
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Mozambique",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -18.665695,
+          "lng": 35.529564
+       },
+       "countrycode": {
+          "iso2": "MZ",
+          "iso3": "MOZ"
+       },
+       "confirmed": 69437,
+       "deaths": 805,
+       "recovered": 62342
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Namibia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -22.9576,
+          "lng": 18.4904
+       },
+       "countrycode": {
+          "iso2": "NA",
+          "iso3": "NAM"
+       },
+       "confirmed": 46954,
+       "deaths": 609,
+       "recovered": 45039
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Nepal",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 28.1667,
+          "lng": 84.25
+       },
+       "countrycode": {
+          "iso2": "NP",
+          "iso3": "NPL"
+       },
+       "confirmed": 289787,
+       "deaths": 3112,
+       "recovered": 276093
+    },
+    {
+       "provincestate": "Aruba",
+       "countryregion": "Netherlands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.5211,
+          "lng": -69.9683
+       },
+       "countrycode": {
+          "iso2": "NL",
+          "iso3": "NLD"
+       },
+       "confirmed": 10437,
+       "deaths": 94,
+       "recovered": 9978
+    },
+    {
+       "provincestate": "Bonaire, Sint Eustatius and Saba",
+       "countryregion": "Netherlands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.1784,
+          "lng": -68.2385
+       },
+       "countrycode": {
+          "iso2": "NL",
+          "iso3": "NLD"
+       },
+       "confirmed": 196,
+       "deaths": 3,
+       "recovered": 180
+    },
+    {
+       "provincestate": "Curacao",
+       "countryregion": "Netherlands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.1696,
+          "lng": -68.99
+       },
+       "countrycode": {
+          "iso2": "NL",
+          "iso3": "NLD"
+       },
+       "confirmed": 11983,
+       "deaths": 95,
+       "recovered": 9820
+    },
+    {
+       "provincestate": "Sint Maarten",
+       "countryregion": "Netherlands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.0425,
+          "lng": -63.0548
+       },
+       "countrycode": {
+          "iso2": "NL",
+          "iso3": "NLD"
+       },
+       "confirmed": 2212,
+       "deaths": 27,
+       "recovered": 2161
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Netherlands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 52.1326,
+          "lng": 5.2913
+       },
+       "countrycode": {
+          "iso2": "NL",
+          "iso3": "NLD"
+       },
+       "confirmed": 1426243,
+       "deaths": 16983,
+       "recovered": 0
+    },
+    {
+       "provincestate": "",
+       "countryregion": "New Zealand",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -40.9006,
+          "lng": 174.886
+       },
+       "countrycode": {
+          "iso2": "NZ",
+          "iso3": "NZL"
+       },
+       "confirmed": 2600,
+       "deaths": 26,
+       "recovered": 2494
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Nicaragua",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.865416,
+          "lng": -85.20723
+       },
+       "countrycode": {
+          "iso2": "NI",
+          "iso3": "NIC"
+       },
+       "confirmed": 6835,
+       "deaths": 181,
+       "recovered": 4225
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Niger",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 17.607788,
+          "lng": 8.081666
+       },
+       "countrycode": {
+          "iso2": "NE",
+          "iso3": "NER"
+       },
+       "confirmed": 5141,
+       "deaths": 191,
+       "recovered": 4812
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Nigeria",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 9.082,
+          "lng": 8.6753
+       },
+       "countrycode": {
+          "iso2": "NG",
+          "iso3": "NGA"
+       },
+       "confirmed": 164488,
+       "deaths": 2061,
+       "recovered": 154441
+    },
+    {
+       "provincestate": "",
+       "countryregion": "North Macedonia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.6086,
+          "lng": 21.7453
+       },
+       "countrycode": {
+          "iso2": "MK",
+          "iso3": "MKD"
+       },
+       "confirmed": 148618,
+       "deaths": 4556,
+       "recovered": 125593
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Norway",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 60.472,
+          "lng": 8.4689
+       },
+       "countrycode": {
+          "iso2": "NO",
+          "iso3": "NOR"
+       },
+       "confirmed": 109137,
+       "deaths": 734,
+       "recovered": 17998
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Oman",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 21.512583,
+          "lng": 55.923256
+       },
+       "countrycode": {
+          "iso2": "OM",
+          "iso3": "OMN"
+       },
+       "confirmed": 183770,
+       "deaths": 1926,
+       "recovered": 163750
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Pakistan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 30.3753,
+          "lng": 69.3451
+       },
+       "countrycode": {
+          "iso2": "PK",
+          "iso3": "PAK"
+       },
+       "confirmed": 778238,
+       "deaths": 16698,
+       "recovered": 676605
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Panama",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 8.538,
+          "lng": -80.7821
+       },
+       "countrycode": {
+          "iso2": "PA",
+          "iso3": "PAN"
+       },
+       "confirmed": 361678,
+       "deaths": 6196,
+       "recovered": 351582
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Papua New Guinea",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -6.314993,
+          "lng": 143.95555
+       },
+       "countrycode": {
+          "iso2": "PG",
+          "iso3": "PNG"
+       },
+       "confirmed": 9952,
+       "deaths": 91,
+       "recovered": 846
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Paraguay",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -23.4425,
+          "lng": -58.4438
+       },
+       "countrycode": {
+          "iso2": "PY",
+          "iso3": "PRY"
+       },
+       "confirmed": 257706,
+       "deaths": 5561,
+       "recovered": 211739
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Peru",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -9.19,
+          "lng": -75.0152
+       },
+       "countrycode": {
+          "iso2": "PE",
+          "iso3": "PER"
+       },
+       "confirmed": 1719088,
+       "deaths": 57954,
+       "recovered": 1645100
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Philippines",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.879721,
+          "lng": 121.77402
+       },
+       "countrycode": {
+          "iso2": "PH",
+          "iso3": "PHL"
+       },
+       "confirmed": 962307,
+       "deaths": 16265,
+       "recovered": 829608
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Poland",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 51.9194,
+          "lng": 19.1451
+       },
+       "countrycode": {
+          "iso2": "PL",
+          "iso3": "POL"
+       },
+       "confirmed": 2718493,
+       "deaths": 63473,
+       "recovered": 2366230
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Portugal",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 39.3999,
+          "lng": -8.2245
+       },
+       "countrycode": {
+          "iso2": "PT",
+          "iso3": "PRT"
+       },
+       "confirmed": 832255,
+       "deaths": 16952,
+       "recovered": 790650
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Qatar",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 25.3548,
+          "lng": 51.1839
+       },
+       "countrycode": {
+          "iso2": "QA",
+          "iso3": "QAT"
+       },
+       "confirmed": 199180,
+       "deaths": 400,
+       "recovered": 176188
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Romania",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 45.9432,
+          "lng": 24.9668
+       },
+       "countrycode": {
+          "iso2": "RO",
+          "iso3": "ROU"
+       },
+       "confirmed": 1037009,
+       "deaths": 26793,
+       "recovered": 954868
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Russia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 61.52401,
+          "lng": 105.318756
+       },
+       "countrycode": {
+          "iso2": "RU",
+          "iso3": "RUS"
+       },
+       "confirmed": 4673699,
+       "deaths": 104937,
+       "recovered": 4303376
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Rwanda",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -1.9403,
+          "lng": 29.8739
+       },
+       "countrycode": {
+          "iso2": "RW",
+          "iso3": "RWA"
+       },
+       "confirmed": 24112,
+       "deaths": 327,
+       "recovered": 22579
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Saint Kitts and Nevis",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 17.357822,
+          "lng": -62.782997
+       },
+       "countrycode": {
+          "iso2": "KN",
+          "iso3": "KNA"
+       },
+       "confirmed": 44,
+       "deaths": 0,
+       "recovered": 44
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Saint Lucia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 13.9094,
+          "lng": -60.9789
+       },
+       "countrycode": {
+          "iso2": "LC",
+          "iso3": "LCA"
+       },
+       "confirmed": 4444,
+       "deaths": 70,
+       "recovered": 4272
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Saint Vincent and the Grenadines",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.9843,
+          "lng": -61.2872
+       },
+       "countrycode": {
+          "iso2": "VC",
+          "iso3": "VCT"
+       },
+       "confirmed": 1827,
+       "deaths": 10,
+       "recovered": 1703
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Samoa",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -13.759,
+          "lng": -172.1046
+       },
+       "confirmed": 3,
+       "deaths": 0,
+       "recovered": 2
+    },
+    {
+       "provincestate": "",
+       "countryregion": "San Marino",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 43.9424,
+          "lng": 12.4578
+       },
+       "countrycode": {
+          "iso2": "SM",
+          "iso3": "SMR"
+       },
+       "confirmed": 5044,
+       "deaths": 88,
+       "recovered": 4794
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Sao Tome and Principe",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 0.1864,
+          "lng": 6.6131
+       },
+       "countrycode": {
+          "iso2": "ST",
+          "iso3": "STP"
+       },
+       "confirmed": 2288,
+       "deaths": 35,
+       "recovered": 2225
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Saudi Arabia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.885942,
+          "lng": 45.079163
+       },
+       "countrycode": {
+          "iso2": "SA",
+          "iso3": "SAU"
+       },
+       "confirmed": 408038,
+       "deaths": 6858,
+       "recovered": 391362
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Senegal",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 14.4974,
+          "lng": -14.4524
+       },
+       "countrycode": {
+          "iso2": "SN",
+          "iso3": "SEN"
+       },
+       "confirmed": 39910,
+       "deaths": 1096,
+       "recovered": 38668
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Serbia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 44.0165,
+          "lng": 21.0059
+       },
+       "countrycode": {
+          "iso2": "RS",
+          "iso3": "SRB"
+       },
+       "confirmed": 670801,
+       "deaths": 6095,
+       "recovered": 0
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Seychelles",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -4.6796,
+          "lng": 55.492
+       },
+       "countrycode": {
+          "iso2": "SC",
+          "iso3": "SYC"
+       },
+       "confirmed": 5016,
+       "deaths": 25,
+       "recovered": 4551
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Sierra Leone",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 8.460555,
+          "lng": -11.779889
+       },
+       "countrycode": {
+          "iso2": "SL",
+          "iso3": "SLE"
+       },
+       "confirmed": 4042,
+       "deaths": 79,
+       "recovered": 2883
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Singapore",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 1.2833,
+          "lng": 103.8333
+       },
+       "countrycode": {
+          "iso2": "SG",
+          "iso3": "SGP"
+       },
+       "confirmed": 60880,
+       "deaths": 30,
+       "recovered": 60576
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Slovakia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 48.669,
+          "lng": 19.699
+       },
+       "countrycode": {
+          "iso2": "SK",
+          "iso3": "SVK"
+       },
+       "confirmed": 377473,
+       "deaths": 11304,
+       "recovered": 255300
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Slovenia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.1512,
+          "lng": 14.9955
+       },
+       "countrycode": {
+          "iso2": "SI",
+          "iso3": "SVN"
+       },
+       "confirmed": 234067,
+       "deaths": 4176,
+       "recovered": 217715
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Solomon Islands",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -9.6457,
+          "lng": 160.1562
+       },
+       "countrycode": {
+          "iso2": "SB",
+          "iso3": "SLB"
+       },
+       "confirmed": 20,
+       "deaths": 0,
+       "recovered": 18
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Somalia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 5.152149,
+          "lng": 46.199615
+       },
+       "countrycode": {
+          "iso2": "SO",
+          "iso3": "SOM"
+       },
+       "confirmed": 13459,
+       "deaths": 689,
+       "recovered": 5593
+    },
+    {
+       "provincestate": "",
+       "countryregion": "South Africa",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -30.5595,
+          "lng": 22.9375
+       },
+       "countrycode": {
+          "iso2": "ZA",
+          "iso3": "ZAF"
+       },
+       "confirmed": 1569935,
+       "deaths": 53940,
+       "recovered": 1495864
+    },
+    {
+       "provincestate": "",
+       "countryregion": "South Sudan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 6.877,
+          "lng": 31.307
+       },
+       "countrycode": {
+          "iso2": "SS",
+          "iso3": "SSD"
+       },
+       "confirmed": 10486,
+       "deaths": 114,
+       "recovered": 10250
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Spain",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 40.46367,
+          "lng": -3.74922
+       },
+       "countrycode": {
+          "iso2": "ES",
+          "iso3": "ESP"
+       },
+       "confirmed": 3446072,
+       "deaths": 77364,
+       "recovered": 150376
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Sri Lanka",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 7.873054,
+          "lng": 80.7718
+       },
+       "countrycode": {
+          "iso2": "LK",
+          "iso3": "LKA"
+       },
+       "confirmed": 98050,
+       "deaths": 630,
+       "recovered": 93668
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Sudan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 12.8628,
+          "lng": 30.2176
+       },
+       "countrycode": {
+          "iso2": "SD",
+          "iso3": "SDN"
+       },
+       "confirmed": 33157,
+       "deaths": 2289,
+       "recovered": 26324
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Suriname",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 3.9193,
+          "lng": -56.0278
+       },
+       "countrycode": {
+          "iso2": "SR",
+          "iso3": "SUR"
+       },
+       "confirmed": 9791,
+       "deaths": 189,
+       "recovered": 8937
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Sweden",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 60.128162,
+          "lng": 18.643501
+       },
+       "countrycode": {
+          "iso2": "SE",
+          "iso3": "SWE"
+       },
+       "confirmed": 924340,
+       "deaths": 13863,
+       "recovered": 0
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Switzerland",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 46.8182,
+          "lng": 8.2275
+       },
+       "countrycode": {
+          "iso2": "CH",
+          "iso3": "CHE"
+       },
+       "confirmed": 642131,
+       "deaths": 10546,
+       "recovered": 317600
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Syria",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 34.802074,
+          "lng": 38.996815
+       },
+       "countrycode": {
+          "iso2": "SY",
+          "iso3": "SYR"
+       },
+       "confirmed": 21584,
+       "deaths": 1483,
+       "recovered": 15216
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Taiwan*",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.7,
+          "lng": 121
+       },
+       "confirmed": 1082,
+       "deaths": 11,
+       "recovered": 1038
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Tajikistan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 38.861,
+          "lng": 71.2761
+       },
+       "countrycode": {
+          "iso2": "TJ",
+          "iso3": "TJK"
+       },
+       "confirmed": 13308,
+       "deaths": 90,
+       "recovered": 13218
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Tanzania",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -6.369028,
+          "lng": 34.88882
+       },
+       "countrycode": {
+          "iso2": "TZ",
+          "iso3": "TZA"
+       },
+       "confirmed": 509,
+       "deaths": 21,
+       "recovered": 183
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Thailand",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.870032,
+          "lng": 100.99254
+       },
+       "countrycode": {
+          "iso2": "TH",
+          "iso3": "THA"
+       },
+       "confirmed": 46643,
+       "deaths": 110,
+       "recovered": 26873
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Timor-Leste",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -8.874217,
+          "lng": 125.72754
+       },
+       "countrycode": {
+          "iso2": "TL",
+          "iso3": "TLS"
+       },
+       "confirmed": 1509,
+       "deaths": 2,
+       "recovered": 760
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Togo",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 8.6195,
+          "lng": 0.8248
+       },
+       "countrycode": {
+          "iso2": "TG",
+          "iso3": "TGO"
+       },
+       "confirmed": 12657,
+       "deaths": 121,
+       "recovered": 10431
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Trinidad and Tobago",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 10.6918,
+          "lng": -61.2225
+       },
+       "countrycode": {
+          "iso2": "TT",
+          "iso3": "TTO"
+       },
+       "confirmed": 9216,
+       "deaths": 157,
+       "recovered": 8036
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Tunisia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 33.886917,
+          "lng": 9.537499
+       },
+       "countrycode": {
+          "iso2": "TN",
+          "iso3": "TUN"
+       },
+       "confirmed": 291833,
+       "deaths": 9993,
+       "recovered": 242238
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Turkey",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 38.9637,
+          "lng": 35.2433
+       },
+       "countrycode": {
+          "iso2": "TR",
+          "iso3": "TUR"
+       },
+       "confirmed": 4446591,
+       "deaths": 36975,
+       "recovered": 3844342
+    },
+    {
+       "provincestate": "",
+       "countryregion": "US",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 40,
+          "lng": -100
+       },
+       "countrycode": {
+          "iso2": "US",
+          "iso3": "USA"
+       },
+       "confirmed": 31862094,
+       "deaths": 569402,
+       "recovered": 0
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Uganda",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 1.373333,
+          "lng": 32.290276
+       },
+       "countrycode": {
+          "iso2": "UG",
+          "iso3": "UGA"
+       },
+       "confirmed": 41475,
+       "deaths": 341,
+       "recovered": 40898
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Ukraine",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 48.3794,
+          "lng": 31.1656
+       },
+       "countrycode": {
+          "iso2": "UA",
+          "iso3": "UKR"
+       },
+       "confirmed": 2027544,
+       "deaths": 42565,
+       "recovered": 1563969
+    },
+    {
+       "provincestate": "",
+       "countryregion": "United Arab Emirates",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 23.424076,
+          "lng": 53.847816
+       },
+       "countrycode": {
+          "iso2": "AE",
+          "iso3": "ARE"
+       },
+       "confirmed": 502791,
+       "deaths": 1561,
+       "recovered": 485078
+    },
+    {
+       "provincestate": "Anguilla",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.2206,
+          "lng": -63.0686
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 29,
+       "deaths": 0,
+       "recovered": 25
+    },
+    {
+       "provincestate": "Bermuda",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 32.3078,
+          "lng": -64.7505
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 2226,
+       "deaths": 20,
+       "recovered": 1313
+    },
+    {
+       "provincestate": "British Virgin Islands",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 18.4207,
+          "lng": -64.64
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 194,
+       "deaths": 1,
+       "recovered": 183
+    },
+    {
+       "provincestate": "Cayman Islands",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 19.3133,
+          "lng": -81.2546
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 531,
+       "deaths": 2,
+       "recovered": 509
+    },
+    {
+       "provincestate": "Channel Islands",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 49.3723,
+          "lng": -2.3644
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 4055,
+       "deaths": 86,
+       "recovered": 3956
+    },
+    {
+       "provincestate": "Falkland Islands (Malvinas)",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -51.7963,
+          "lng": -59.5236
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 62,
+       "deaths": 0,
+       "recovered": 55
+    },
+    {
+       "provincestate": "Gibraltar",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 36.1408,
+          "lng": -5.3536
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 4291,
+       "deaths": 94,
+       "recovered": 4181
+    },
+    {
+       "provincestate": "Isle of Man",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 54.2361,
+          "lng": -4.5481
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 1582,
+       "deaths": 29,
+       "recovered": 1543
+    },
+    {
+       "provincestate": "Montserrat",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 16.742498,
+          "lng": -62.187366
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 20,
+       "deaths": 1,
+       "recovered": 19
+    },
+    {
+       "provincestate": "Saint Helena, Ascension and Tristan da Cunha",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -7.9467,
+          "lng": -14.3559
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 4,
+       "deaths": 0,
+       "recovered": 4
+    },
+    {
+       "provincestate": "Turks and Caicos Islands",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 21.694,
+          "lng": -71.7979
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 2371,
+       "deaths": 17,
+       "recovered": 2316
+    },
+    {
+       "provincestate": "",
+       "countryregion": "United Kingdom",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 55.3781,
+          "lng": -3.436
+       },
+       "countrycode": {
+          "iso2": "GB",
+          "iso3": "GBR"
+       },
+       "confirmed": 4395703,
+       "deaths": 127327,
+       "recovered": 0
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Uruguay",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -32.5228,
+          "lng": -55.7658
+       },
+       "countrycode": {
+          "iso2": "UY",
+          "iso3": "URY"
+       },
+       "confirmed": 172601,
+       "deaths": 2083,
+       "recovered": 142549
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Uzbekistan",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 41.37749,
+          "lng": 64.58526
+       },
+       "countrycode": {
+          "iso2": "UZ",
+          "iso3": "UZB"
+       },
+       "confirmed": 87551,
+       "deaths": 640,
+       "recovered": 84717
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Vanuatu",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -15.3767,
+          "lng": 166.9592
+       },
+       "countrycode": {
+          "iso2": "VU",
+          "iso3": "VUT"
+       },
+       "confirmed": 4,
+       "deaths": 1,
+       "recovered": 1
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Venezuela",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 6.4238,
+          "lng": -66.5897
+       },
+       "countrycode": {
+          "iso2": "VE",
+          "iso3": "VEN"
+       },
+       "confirmed": 186745,
+       "deaths": 1965,
+       "recovered": 169685
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Vietnam",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 14.058324,
+          "lng": 108.2772
+       },
+       "countrycode": {
+          "iso2": "VN",
+          "iso3": "VNM"
+       },
+       "confirmed": 2812,
+       "deaths": 35,
+       "recovered": 2490
+    },
+    {
+       "provincestate": "",
+       "countryregion": "West Bank and Gaza",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 31.9522,
+          "lng": 35.2332
+       },
+       "confirmed": 286028,
+       "deaths": 3096,
+       "recovered": 254199
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Yemen",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 15.552727,
+          "lng": 48.516388
+       },
+       "countrycode": {
+          "iso2": "YE",
+          "iso3": "YEM"
+       },
+       "confirmed": 5960,
+       "deaths": 1147,
+       "recovered": 2309
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Zambia",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -13.133897,
+          "lng": 27.849333
+       },
+       "countrycode": {
+          "iso2": "ZM",
+          "iso3": "ZMB"
+       },
+       "confirmed": 91119,
+       "deaths": 1238,
+       "recovered": 88956
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Zimbabwe",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": -19.015438,
+          "lng": 29.154858
+       },
+       "countrycode": {
+          "iso2": "ZW",
+          "iso3": "ZWE"
+       },
+       "confirmed": 37980,
+       "deaths": 1555,
+       "recovered": 35065
+    },
+    {
+       "provincestate": "",
+       "countryregion": "Canada",
+       "lastupdate": "2021-04-23T03:42:00.012Z",
+       "location": {
+          "lat": 56.1304,
+          "lng": -106.3468
+       },
+       "countrycode": {
+          "iso2": "CA",
+          "iso3": "CAN"
+       },
+       "recovered": 1046969
+    }
+ ]

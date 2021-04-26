@@ -1,0 +1,4 @@
+Los archivos que estan en la carpeta son para usarlos en caso
+que la api externa se caiga
+
+habria que hacer la implementación

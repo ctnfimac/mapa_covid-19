@@ -1,0 +1,6479 @@
+{
+    "data": [
+       {
+          "coordinates": {
+             "latitude": 33,
+             "longitude": 65
+          },
+          "name": "Afghanistan",
+          "code": "AF",
+          "population": 29121286,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2565,
+             "confirmed": 58542,
+             "recovered": 52348,
+             "critical": 3629,
+             "calculated": {
+                "death_rate": 4.3814697,
+                "recovery_rate": 89.41956,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1124
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 41,
+             "longitude": 20
+          },
+          "name": "Albania",
+          "code": "AL",
+          "population": 2986952,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2364,
+             "confirmed": 130114,
+             "recovered": 103582,
+             "critical": 24168,
+             "calculated": {
+                "death_rate": 1.8168683,
+                "recovery_rate": 79.60865,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 18
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Åland Islands",
+          "code": "AX",
+          "population": 26711,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "American Samoa",
+          "code": "AS",
+          "population": 57881,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 28,
+             "longitude": 3
+          },
+          "name": "Algeria",
+          "code": "DZ",
+          "population": 34586184,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3181,
+             "confirmed": 120363,
+             "recovered": 83900,
+             "critical": 33282,
+             "calculated": {
+                "death_rate": 2.6428387,
+                "recovery_rate": 69.7058,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 19
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 42.5,
+             "longitude": 1.6
+          },
+          "name": "Andorra",
+          "code": "AD",
+          "population": 84000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 123,
+             "confirmed": 12942,
+             "recovered": 12375,
+             "critical": 444,
+             "calculated": {
+                "death_rate": 0.9503941,
+                "recovery_rate": 95.61891,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 25
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Angola",
+          "code": "AO",
+          "population": 13068161,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 572,
+             "confirmed": 25051,
+             "recovered": 22901,
+             "critical": 1578,
+             "calculated": {
+                "death_rate": 2.283342,
+                "recovery_rate": 91.41751,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 24
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Anguilla",
+          "code": "AI",
+          "population": 13254,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 29,
+             "recovered": 25,
+             "critical": 4,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 86.206894,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 17.05,
+             "longitude": -61.8
+          },
+          "name": "Antigua and Barbuda",
+          "code": "AG",
+          "population": 86754,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 31,
+             "confirmed": 1217,
+             "recovered": 995,
+             "critical": 191,
+             "calculated": {
+                "death_rate": 2.5472474,
+                "recovery_rate": 81.75842,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Antarctica",
+          "code": "AQ",
+          "population": null,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -27,
+             "longitude": 133
+          },
+          "name": "Australia",
+          "code": "AU",
+          "population": 21515754,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 38
+          },
+          "latest_data": {
+             "deaths": 910,
+             "confirmed": 29626,
+             "recovered": 26461,
+             "critical": 2255,
+             "calculated": {
+                "death_rate": 3.0716262,
+                "recovery_rate": 89.31682,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 47.3333,
+             "longitude": 13.3333
+          },
+          "name": "Austria",
+          "code": "AT",
+          "population": 8205000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 10026,
+             "confirmed": 602494,
+             "recovered": 565513,
+             "critical": 26955,
+             "calculated": {
+                "death_rate": 1.664083,
+                "recovery_rate": 93.862015,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 527
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 26,
+             "longitude": 50.55
+          },
+          "name": "Bahrain",
+          "code": "BH",
+          "population": 738004,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 614,
+             "confirmed": 168201,
+             "recovered": 156981,
+             "critical": 10606,
+             "calculated": {
+                "death_rate": 0.36503944,
+                "recovery_rate": 93.32941,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 97
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 24,
+             "longitude": 90
+          },
+          "name": "Bangladesh",
+          "code": "BD",
+          "population": 156118464,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 10781,
+             "confirmed": 736074,
+             "recovered": 642449,
+             "critical": 82844,
+             "calculated": {
+                "death_rate": 1.4646626,
+                "recovery_rate": 87.28049,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 9.5,
+             "longitude": 2.25
+          },
+          "name": "Benin",
+          "code": "BJ",
+          "population": 9056010,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 97,
+             "confirmed": 7720,
+             "recovered": 7510,
+             "critical": 113,
+             "calculated": {
+                "death_rate": 1.2564766,
+                "recovery_rate": 97.27979,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 35
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Belize",
+          "code": "BZ",
+          "population": 314522,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 320,
+             "confirmed": 12596,
+             "recovered": 12164,
+             "critical": 112,
+             "calculated": {
+                "death_rate": 2.540489,
+                "recovery_rate": 96.57034,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -34,
+             "longitude": -64
+          },
+          "name": "Argentina",
+          "code": "AR",
+          "population": 41343201,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 60620,
+             "confirmed": 2796768,
+             "recovered": 2449793,
+             "critical": 286355,
+             "calculated": {
+                "death_rate": 2.167502,
+                "recovery_rate": 87.59371,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4791
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 40,
+             "longitude": 45
+          },
+          "name": "Armenia",
+          "code": "AM",
+          "population": 2968000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3969,
+             "confirmed": 211399,
+             "recovered": 191158,
+             "critical": 16272,
+             "calculated": {
+                "death_rate": 1.8774923,
+                "recovery_rate": 90.42522,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 44,
+             "longitude": 18
+          },
+          "name": "Bosnia and Herzegovina",
+          "code": "BA",
+          "population": 4590000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 8164,
+             "confirmed": 194371,
+             "recovered": 152007,
+             "critical": 34200,
+             "calculated": {
+                "death_rate": 4.200215,
+                "recovery_rate": 78.20457,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 12.5,
+             "longitude": -69.9667
+          },
+          "name": "Aruba",
+          "code": "AW",
+          "population": 71566,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 95,
+             "confirmed": 10469,
+             "recovered": 10024,
+             "critical": 350,
+             "calculated": {
+                "death_rate": 0.907441,
+                "recovery_rate": 95.74935,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 14
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 40.5,
+             "longitude": 47.5
+          },
+          "name": "Azerbaijan",
+          "code": "AZ",
+          "population": 8303512,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 4274,
+             "confirmed": 307980,
+             "recovered": 272575,
+             "critical": 31131,
+             "calculated": {
+                "death_rate": 1.3877524,
+                "recovery_rate": 88.50412,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 24.25,
+             "longitude": -76
+          },
+          "name": "Bahamas",
+          "code": "BS",
+          "population": 301790,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 194,
+             "confirmed": 9868,
+             "recovered": 9140,
+             "critical": 534,
+             "calculated": {
+                "death_rate": 1.9659505,
+                "recovery_rate": 92.62262,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Brunei ",
+          "code": "BN",
+          "population": 395027,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3,
+             "confirmed": 223,
+             "recovered": 210,
+             "critical": 10,
+             "calculated": {
+                "death_rate": 1.3452915,
+                "recovery_rate": 94.1704,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Bonaire, Sint Eustatius and Saba",
+          "code": "BQ",
+          "population": 18012,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 53,
+             "longitude": 28
+          },
+          "name": "Belarus",
+          "code": "BY",
+          "population": 9685000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2463,
+             "confirmed": 348486,
+             "recovered": 338927,
+             "critical": 7096,
+             "calculated": {
+                "death_rate": 0.70677155,
+                "recovery_rate": 97.25699,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13.1667,
+             "longitude": -59.5333
+          },
+          "name": "Barbados",
+          "code": "BB",
+          "population": 285653,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 44,
+             "confirmed": 3806,
+             "recovered": 3716,
+             "critical": 46,
+             "calculated": {
+                "death_rate": 1.1560694,
+                "recovery_rate": 97.635315,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "British Indian Ocean Territory",
+          "code": "IO",
+          "population": 4000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 32.3333,
+             "longitude": -64.75
+          },
+          "name": "Bermuda",
+          "code": "BM",
+          "population": 65365,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 22,
+             "confirmed": 2261,
+             "recovered": 1394,
+             "critical": 845,
+             "calculated": {
+                "death_rate": 0.9730208,
+                "recovery_rate": 61.654137,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 31
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 50.8333,
+             "longitude": 4
+          },
+          "name": "Belgium",
+          "code": "BE",
+          "population": 10403000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 23867,
+             "confirmed": 960169,
+             "recovered": 815371,
+             "critical": 120931,
+             "calculated": {
+                "death_rate": 2.4857082,
+                "recovery_rate": 84.91953,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 926
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 6,
+             "longitude": 12
+          },
+          "name": "Cameroon",
+          "code": "CM",
+          "population": 19294149,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 939,
+             "confirmed": 64809,
+             "recovered": 57821,
+             "critical": 6049,
+             "calculated": {
+                "death_rate": 1.4488728,
+                "recovery_rate": 89.217545,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 385
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 27.5,
+             "longitude": 90.5
+          },
+          "name": "Bhutan",
+          "code": "BT",
+          "population": 699847,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 992,
+             "recovered": 906,
+             "critical": 85,
+             "calculated": {
+                "death_rate": 0.10080645,
+                "recovery_rate": 91.33064,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Bolivia",
+          "code": "BO",
+          "population": 9947418,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 27,
+             "confirmed": 1330
+          },
+          "latest_data": {
+             "deaths": 12758,
+             "confirmed": 294391,
+             "recovered": 243064,
+             "critical": 38569,
+             "calculated": {
+                "death_rate": 4.333692,
+                "recovery_rate": 82.565025,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 71
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13,
+             "longitude": 105
+          },
+          "name": "Cambodia",
+          "code": "KH",
+          "population": 14453680,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 59,
+             "confirmed": 8193,
+             "recovered": 2924,
+             "critical": 5210,
+             "calculated": {
+                "death_rate": 0.7201269,
+                "recovery_rate": 35.689003,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "CAR",
+          "code": "CF",
+          "population": 4844927,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 85,
+             "confirmed": 6175,
+             "recovered": 5112,
+             "critical": 978,
+             "calculated": {
+                "death_rate": 1.3765182,
+                "recovery_rate": 82.78542,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Botswana",
+          "code": "BW",
+          "population": 2029307,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 691,
+             "confirmed": 45855,
+             "recovered": 41338,
+             "critical": 3826,
+             "calculated": {
+                "death_rate": 1.506924,
+                "recovery_rate": 90.14938,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Chad",
+          "code": "TD",
+          "population": 10543464,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 169,
+             "confirmed": 4735,
+             "recovered": 4376,
+             "critical": 190,
+             "calculated": {
+                "death_rate": 3.5691657,
+                "recovery_rate": 92.41816,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 43,
+             "longitude": 25
+          },
+          "name": "Bulgaria",
+          "code": "BG",
+          "population": 7148785,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 15618,
+             "confirmed": 392913,
+             "recovered": 318208,
+             "critical": 59087,
+             "calculated": {
+                "death_rate": 3.9749258,
+                "recovery_rate": 80.986885,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 786
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Bouvet Island",
+          "code": "BV",
+          "population": null,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -10,
+             "longitude": -55
+          },
+          "name": "Brazil",
+          "code": "BR",
+          "population": 201103330,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 383757,
+             "confirmed": 14172139,
+             "recovered": 12673785,
+             "critical": 1114597,
+             "calculated": {
+                "death_rate": 2.7078269,
+                "recovery_rate": 89.42747,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 8318
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Cocos (Keeling) Islands",
+          "code": "CC",
+          "population": 628,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 4,
+             "longitude": -72
+          },
+          "name": "Colombia",
+          "code": "CO",
+          "population": 47790000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 70026,
+             "confirmed": 2720619,
+             "recovered": 2538020,
+             "critical": 112573,
+             "calculated": {
+                "death_rate": 2.5738995,
+                "recovery_rate": 93.28833,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 5306
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 60,
+             "longitude": -95
+          },
+          "name": "Canada",
+          "code": "CA",
+          "population": 33679000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 23822,
+             "confirmed": 1155834,
+             "recovered": 1045244,
+             "critical": 86768,
+             "calculated": {
+                "death_rate": 2.0610225,
+                "recovery_rate": 90.432014,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1312
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13,
+             "longitude": -2
+          },
+          "name": "Burkina Faso",
+          "code": "BF",
+          "population": 16241811,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 156,
+             "confirmed": 13212,
+             "recovered": 12862,
+             "critical": 194,
+             "calculated": {
+                "death_rate": 1.1807448,
+                "recovery_rate": 97.35089,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Burundi",
+          "code": "BI",
+          "population": 9863117,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 6,
+             "confirmed": 3732,
+             "recovered": 773,
+             "critical": 2953,
+             "calculated": {
+                "death_rate": 0.1607717,
+                "recovery_rate": 20.712755,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 10,
+             "longitude": -84
+          },
+          "name": "Costa Rica",
+          "code": "CR",
+          "population": 4516220,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3125,
+             "confirmed": 235274,
+             "recovered": 199779,
+             "critical": 32370,
+             "calculated": {
+                "death_rate": 1.3282386,
+                "recovery_rate": 84.91334,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 281
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Cape Verde",
+          "code": "CV",
+          "population": 508659,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 19.5,
+             "longitude": -80.5
+          },
+          "name": "Cayman Islands",
+          "code": "KY",
+          "population": 44270,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2,
+             "confirmed": 531,
+             "recovered": 509,
+             "critical": 20,
+             "calculated": {
+                "death_rate": 0.37664783,
+                "recovery_rate": 95.85687,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Cook Islands",
+          "code": "CK",
+          "population": 21388,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 35,
+             "longitude": 105
+          },
+          "name": "China",
+          "code": "CN",
+          "population": 1330044000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 19
+          },
+          "latest_data": {
+             "deaths": 4636,
+             "confirmed": 90566,
+             "recovered": 85624,
+             "critical": 306,
+             "calculated": {
+                "death_rate": 5.118919,
+                "recovery_rate": 94.543205,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 5
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": null,
+             "longitude": null
+          },
+          "name": "Curaçao",
+          "code": "CW",
+          "population": 141766,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 99,
+             "confirmed": 12022,
+             "recovered": 10011,
+             "critical": 1912,
+             "calculated": {
+                "death_rate": 0.82349026,
+                "recovery_rate": 83.27233,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 22
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 35,
+             "longitude": 33
+          },
+          "name": "Cyprus",
+          "code": "CY",
+          "population": 1102677,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 296,
+             "confirmed": 59792,
+             "recovered": 39061,
+             "critical": 20435,
+             "calculated": {
+                "death_rate": 0.4950495,
+                "recovery_rate": 65.32814,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 74
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Christmas Island",
+          "code": "CX",
+          "population": 1500,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -30,
+             "longitude": -71
+          },
+          "name": "Chile",
+          "code": "CL",
+          "population": 16746491,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 25532,
+             "confirmed": 1148320,
+             "recovered": 1081117,
+             "critical": 41671,
+             "calculated": {
+                "death_rate": 2.223422,
+                "recovery_rate": 94.14771,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3375
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 19,
+             "longitude": -70.6667
+          },
+          "name": "Dominican Republic",
+          "code": "DO",
+          "population": 9823821,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3441,
+             "confirmed": 262935,
+             "recovered": 220159,
+             "critical": 39335,
+             "calculated": {
+                "death_rate": 1.3086884,
+                "recovery_rate": 83.73134,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 183
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Comoros",
+          "code": "KM",
+          "population": 773407,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 146,
+             "confirmed": 3824,
+             "recovered": 3645,
+             "critical": 33,
+             "calculated": {
+                "death_rate": 3.8179917,
+                "recovery_rate": 95.31904,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -1,
+             "longitude": 15
+          },
+          "name": "Congo",
+          "code": "CG",
+          "population": 3039126,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 139,
+             "confirmed": 10084,
+             "recovered": 8208,
+             "critical": 1737,
+             "calculated": {
+                "death_rate": 1.3784213,
+                "recovery_rate": 81.39627,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "DRC",
+          "code": "CD",
+          "population": 70916439,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 752,
+             "confirmed": 29350,
+             "recovered": 26135,
+             "critical": 2463,
+             "calculated": {
+                "death_rate": 2.5621805,
+                "recovery_rate": 89.046,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Dominica",
+          "code": "DM",
+          "population": 72813,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 172,
+             "recovered": 165,
+             "critical": 7,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 95.93023,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 2,
+             "longitude": 10
+          },
+          "name": "Equatorial Guinea",
+          "code": "GQ",
+          "population": 1014999,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 106,
+             "confirmed": 7505,
+             "recovered": 7016,
+             "critical": 383,
+             "calculated": {
+                "death_rate": 1.4123918,
+                "recovery_rate": 93.484344,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 11
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Côte d'Ivoire",
+          "code": "CI",
+          "population": 21058798,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 45.1667,
+             "longitude": 15.5
+          },
+          "name": "Croatia",
+          "code": "HR",
+          "population": 4284889,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 6738,
+             "confirmed": 316308,
+             "recovered": 293454,
+             "critical": 16116,
+             "calculated": {
+                "death_rate": 2.1302023,
+                "recovery_rate": 92.774765,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 226
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 21.5,
+             "longitude": -80
+          },
+          "name": "Cuba",
+          "code": "CU",
+          "population": 11423000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 559,
+             "confirmed": 97967,
+             "recovered": 92050,
+             "critical": 5358,
+             "calculated": {
+                "death_rate": 0.57060033,
+                "recovery_rate": 93.96021,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 70
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Eritrea",
+          "code": "ER",
+          "population": 5792984,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 10,
+             "confirmed": 3597,
+             "recovered": 3406,
+             "critical": 181,
+             "calculated": {
+                "death_rate": 0.27800944,
+                "recovery_rate": 94.69002,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 49.75,
+             "longitude": 15.5
+          },
+          "name": "Czechia",
+          "code": "CZ",
+          "population": 10476000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 28787,
+             "confirmed": 1612832,
+             "recovered": 1520263,
+             "critical": 63782,
+             "calculated": {
+                "death_rate": 1.7848728,
+                "recovery_rate": 94.26047,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 862
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 56,
+             "longitude": 10
+          },
+          "name": "Denmark",
+          "code": "DK",
+          "population": 5484000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2467,
+             "confirmed": 245761,
+             "recovered": 233614,
+             "critical": 9680,
+             "calculated": {
+                "death_rate": 1.0038208,
+                "recovery_rate": 95.057396,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 44
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 11.5,
+             "longitude": 43
+          },
+          "name": "Djibouti",
+          "code": "DJ",
+          "population": 740528,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 130,
+             "confirmed": 10697,
+             "recovered": 10007,
+             "critical": 560,
+             "calculated": {
+                "death_rate": 1.215294,
+                "recovery_rate": 93.54959,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -18,
+             "longitude": 175
+          },
+          "name": "Fiji",
+          "code": "FJ",
+          "population": 875983,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2,
+             "confirmed": 86,
+             "recovered": 65,
+             "critical": 19,
+             "calculated": {
+                "death_rate": 2.3255813,
+                "recovery_rate": 75.5814,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Faroe Islands",
+          "code": "FO",
+          "population": 48228,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13.8333,
+             "longitude": -88.9167
+          },
+          "name": "El Salvador",
+          "code": "SV",
+          "population": 6052064,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2089,
+             "confirmed": 68161,
+             "recovered": 64208,
+             "critical": 1864,
+             "calculated": {
+                "death_rate": 3.0648024,
+                "recovery_rate": 94.20049,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 74
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 27,
+             "longitude": 30
+          },
+          "name": "Egypt",
+          "code": "EG",
+          "population": 80471869,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 12914,
+             "confirmed": 219774,
+             "recovered": 165348,
+             "critical": 41512,
+             "calculated": {
+                "death_rate": 5.876036,
+                "recovery_rate": 75.235466,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 90
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "French Southern Territories",
+          "code": "TF",
+          "population": 140,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -15,
+             "longitude": -140
+          },
+          "name": "French Polynesia",
+          "code": "PF",
+          "population": 270485,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 141,
+             "confirmed": 18725,
+             "recovered": 4842,
+             "critical": 13742,
+             "calculated": {
+                "death_rate": 0.753004,
+                "recovery_rate": 25.858479,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -2,
+             "longitude": -77.5
+          },
+          "name": "Ecuador",
+          "code": "EC",
+          "population": 14790608,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 17965,
+             "confirmed": 365393,
+             "recovered": 309541,
+             "critical": 37887,
+             "calculated": {
+                "death_rate": 4.916624,
+                "recovery_rate": 84.71454,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 636
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 8,
+             "longitude": -2
+          },
+          "name": "Ghana",
+          "code": "GH",
+          "population": 24339838,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 777,
+             "confirmed": 91928,
+             "recovered": 89729,
+             "critical": 1422,
+             "calculated": {
+                "death_rate": 0.8452267,
+                "recovery_rate": 97.60791,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 9
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 59,
+             "longitude": 26
+          },
+          "name": "Estonia",
+          "code": "EE",
+          "population": 1291170,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1120,
+             "confirmed": 119218,
+             "recovered": 105471,
+             "critical": 12627,
+             "calculated": {
+                "death_rate": 0.93945545,
+                "recovery_rate": 88.469025,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 58
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 8,
+             "longitude": 38
+          },
+          "name": "Ethiopia",
+          "code": "ET",
+          "population": 88013491,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3496,
+             "confirmed": 247989,
+             "recovered": 185107,
+             "critical": 59386,
+             "calculated": {
+                "death_rate": 1.40974,
+                "recovery_rate": 74.64323,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1059
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 51,
+             "longitude": 9
+          },
+          "name": "Germany",
+          "code": "DE",
+          "population": 81802257,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 81693,
+             "confirmed": 3238054,
+             "recovered": 2845300,
+             "critical": 311061,
+             "calculated": {
+                "death_rate": 2.5229042,
+                "recovery_rate": 87.870674,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 5049
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Falkland Islands",
+          "code": "FK",
+          "population": 2638,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 63,
+             "recovered": 62,
+             "critical": 1,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 98.4127,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 64,
+             "longitude": 26
+          },
+          "name": "Finland",
+          "code": "FI",
+          "population": 5244000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 902,
+             "confirmed": 85077,
+             "recovered": 46000,
+             "critical": 38175,
+             "calculated": {
+                "death_rate": 1.0602161,
+                "recovery_rate": 54.06867,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 37
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Grenada",
+          "code": "GD",
+          "population": 107818,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 159,
+             "recovered": 155,
+             "critical": 3,
+             "calculated": {
+                "death_rate": 0.6289308,
+                "recovery_rate": 97.484276,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 46,
+             "longitude": 2
+          },
+          "name": "France",
+          "code": "FR",
+          "population": 64768389,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 102164,
+             "confirmed": 5408606,
+             "recovered": 4242893,
+             "critical": 1063549,
+             "calculated": {
+                "death_rate": 1.8889155,
+                "recovery_rate": 78.447075,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 5981
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 16.25,
+             "longitude": -61.5833
+          },
+          "name": "Guadeloupe",
+          "code": "GP",
+          "population": 443000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 185,
+             "confirmed": 13669,
+             "recovered": 2242,
+             "critical": 11242,
+             "calculated": {
+                "death_rate": 1.3534274,
+                "recovery_rate": 16.402079,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 23
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -1,
+             "longitude": 11.75
+          },
+          "name": "Gabon",
+          "code": "GA",
+          "population": 1545255,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 136,
+             "confirmed": 22228,
+             "recovered": 18908,
+             "critical": 3184,
+             "calculated": {
+                "death_rate": 0.6118409,
+                "recovery_rate": 85.06388,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 28
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 4,
+             "longitude": -53
+          },
+          "name": "French Guiana",
+          "code": "GF",
+          "population": 195506,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 97,
+             "confirmed": 18693,
+             "recovered": 9995,
+             "critical": 8601,
+             "calculated": {
+                "death_rate": 0.5189108,
+                "recovery_rate": 53.46921,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 14
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 11,
+             "longitude": -10
+          },
+          "name": "Guinea",
+          "code": "GN",
+          "population": 10324025,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 139,
+             "confirmed": 21745,
+             "recovered": 19080,
+             "critical": 2526,
+             "calculated": {
+                "death_rate": 0.6392274,
+                "recovery_rate": 87.74431,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 24
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13.4667,
+             "longitude": -16.5667
+          },
+          "name": "Gambia",
+          "code": "GM",
+          "population": 1593256,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 173,
+             "confirmed": 5820,
+             "recovered": 5272,
+             "critical": 375,
+             "calculated": {
+                "death_rate": 2.9725087,
+                "recovery_rate": 90.58419,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Guinea-Bissau",
+          "code": "GW",
+          "population": 1565126,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 66,
+             "confirmed": 3721,
+             "recovered": 3205,
+             "critical": 450,
+             "calculated": {
+                "death_rate": 1.7737167,
+                "recovery_rate": 86.13276,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 9
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 15,
+             "longitude": -86.5
+          },
+          "name": "Honduras",
+          "code": "HN",
+          "population": 7989415,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 66,
+             "confirmed": 1469
+          },
+          "latest_data": {
+             "deaths": 5047,
+             "confirmed": 204828,
+             "recovered": 77431,
+             "critical": 122350,
+             "calculated": {
+                "death_rate": 2.4640186,
+                "recovery_rate": 37.802937,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 546
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 36.1833,
+             "longitude": -5.3667
+          },
+          "name": "Gibraltar",
+          "code": "GI",
+          "population": 27884,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 94,
+             "confirmed": 4291,
+             "recovered": 4182,
+             "critical": 15,
+             "calculated": {
+                "death_rate": 2.1906316,
+                "recovery_rate": 97.4598,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 42,
+             "longitude": 43.5
+          },
+          "name": "Georgia",
+          "code": "GE",
+          "population": 4630000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3981,
+             "confirmed": 300264,
+             "recovered": 283557,
+             "critical": 12726,
+             "calculated": {
+                "death_rate": 1.3258333,
+                "recovery_rate": 94.4359,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 39,
+             "longitude": 22
+          },
+          "name": "Greece",
+          "code": "GR",
+          "population": 11000000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 9788,
+             "confirmed": 326395,
+             "recovered": 284050,
+             "critical": 32557,
+             "calculated": {
+                "death_rate": 2.9988205,
+                "recovery_rate": 87.02646,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 822
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 72,
+             "longitude": -40
+          },
+          "name": "Greenland",
+          "code": "GL",
+          "population": 56375,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 31,
+             "recovered": 31,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 100,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Vatican City",
+          "code": "VA",
+          "population": 921,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 27,
+             "recovered": 15,
+             "critical": 12,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 55.555557,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 15.5,
+             "longitude": -90.25
+          },
+          "name": "Guatemala",
+          "code": "GT",
+          "population": 13550440,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 7345,
+             "confirmed": 218145,
+             "recovered": 194075,
+             "critical": 16725,
+             "calculated": {
+                "death_rate": 3.3670266,
+                "recovery_rate": 88.96606,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 5
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -5,
+             "longitude": 120
+          },
+          "name": "Indonesia",
+          "code": "ID",
+          "population": 242968342,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 44172,
+             "confirmed": 1626812,
+             "recovered": 1481449,
+             "critical": 101191,
+             "calculated": {
+                "death_rate": 2.7152493,
+                "recovery_rate": 91.064545,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Guernsey",
+          "code": "GG",
+          "population": 65228,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 20,
+             "longitude": 77
+          },
+          "name": "India",
+          "code": "IN",
+          "population": 1173108018,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 186928,
+             "confirmed": 16257309,
+             "recovered": 13641606,
+             "critical": 2428775,
+             "calculated": {
+                "death_rate": 1.149809,
+                "recovery_rate": 83.91061,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 8944
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13.4667,
+             "longitude": 144.7833
+          },
+          "name": "Guam",
+          "code": "GU",
+          "population": 159358,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 3
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 32,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 3.125,
+                "recovery_rate": 0,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 190
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Isle of Man",
+          "code": "IM",
+          "population": 75049,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 29,
+             "confirmed": 1584,
+             "recovered": 1545,
+             "critical": 10,
+             "calculated": {
+                "death_rate": 1.830808,
+                "recovery_rate": 97.53788,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 31.5,
+             "longitude": 34.75
+          },
+          "name": "Israel",
+          "code": "IL",
+          "population": 7353985,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 6346,
+             "confirmed": 837807,
+             "recovered": 829424,
+             "critical": 2037,
+             "calculated": {
+                "death_rate": 0.7574537,
+                "recovery_rate": 98.99941,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 161
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 5,
+             "longitude": -59
+          },
+          "name": "Guyana",
+          "code": "GY",
+          "population": 748486,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 277,
+             "confirmed": 12234,
+             "recovered": 10555,
+             "critical": 1402,
+             "calculated": {
+                "death_rate": 2.2641819,
+                "recovery_rate": 86.275955,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 12
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 22.25,
+             "longitude": 114.1667
+          },
+          "name": "Hong Kong",
+          "code": "HK",
+          "population": 6898686,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 209,
+             "confirmed": 11719,
+             "recovered": 11315,
+             "critical": 195,
+             "calculated": {
+                "death_rate": 1.7834287,
+                "recovery_rate": 96.552605,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Haiti",
+          "code": "HT",
+          "population": 9648924,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 251,
+             "confirmed": 12944,
+             "recovered": 11945,
+             "critical": 748,
+             "calculated": {
+                "death_rate": 1.9391223,
+                "recovery_rate": 92.282135,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Heard Island and McDonald Islands",
+          "code": "HM",
+          "population": null,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Jersey",
+          "code": "JE",
+          "population": 90812,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 47,
+             "longitude": 20
+          },
+          "name": "Hungary",
+          "code": "HU",
+          "population": 9982000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 26001,
+             "confirmed": 760967,
+             "recovered": 469592,
+             "critical": 265374,
+             "calculated": {
+                "death_rate": 3.4168367,
+                "recovery_rate": 61.709904,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 876
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 65,
+             "longitude": -18
+          },
+          "name": "Iceland",
+          "code": "IS",
+          "population": 308910,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 29,
+             "confirmed": 6379,
+             "recovered": 6223,
+             "critical": 127,
+             "calculated": {
+                "death_rate": 0.45461673,
+                "recovery_rate": 97.554474,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Iran",
+          "code": "IR",
+          "population": 76923300,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 68366,
+             "confirmed": 2335905,
+             "recovered": 1837590,
+             "critical": 429949,
+             "calculated": {
+                "death_rate": 2.9267457,
+                "recovery_rate": 78.66715,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 5038
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 33,
+             "longitude": 44
+          },
+          "name": "Iraq",
+          "code": "IQ",
+          "population": 29671605,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 15128,
+             "confirmed": 1010304,
+             "recovered": 884181,
+             "critical": 110995,
+             "calculated": {
+                "death_rate": 1.4973711,
+                "recovery_rate": 87.516335,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 525
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 53,
+             "longitude": -8
+          },
+          "name": "Ireland",
+          "code": "IE",
+          "population": 4622917,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 4866,
+             "confirmed": 245310,
+             "recovered": 226618,
+             "critical": 13826,
+             "calculated": {
+                "death_rate": 1.9836125,
+                "recovery_rate": 92.38026,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 48
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 42.8333,
+             "longitude": 12.8333
+          },
+          "name": "Italy",
+          "code": "IT",
+          "population": 60340328,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 118357,
+             "confirmed": 3920945,
+             "recovered": 3330392,
+             "critical": 472196,
+             "calculated": {
+                "death_rate": 3.0185835,
+                "recovery_rate": 84.93851,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3021
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 18.25,
+             "longitude": -77.5
+          },
+          "name": "Jamaica",
+          "code": "JM",
+          "population": 2847232,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 751,
+             "confirmed": 44502,
+             "recovered": 20170,
+             "critical": 23581,
+             "calculated": {
+                "death_rate": 1.6875646,
+                "recovery_rate": 45.323807,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 26
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 36,
+             "longitude": 138
+          },
+          "name": "Japan",
+          "code": "JP",
+          "population": 127288000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 9764,
+             "confirmed": 546425,
+             "recovered": 491661,
+             "critical": 45000,
+             "calculated": {
+                "death_rate": 1.7868875,
+                "recovery_rate": 89.97777,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 805
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Korea, Democratic People's Republic of",
+          "code": "KP",
+          "population": 22912177,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 57,
+             "longitude": 25
+          },
+          "name": "Latvia",
+          "code": "LV",
+          "population": 2217969,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2088,
+             "confirmed": 113561,
+             "recovered": 103230,
+             "critical": 8243,
+             "calculated": {
+                "death_rate": 1.8386594,
+                "recovery_rate": 90.90269,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 78
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 47.1667,
+             "longitude": 9.5333
+          },
+          "name": "Liechtenstein",
+          "code": "LI",
+          "population": 35000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 57,
+             "confirmed": 2851,
+             "recovered": 2715,
+             "critical": 79,
+             "calculated": {
+                "death_rate": 1.9992985,
+                "recovery_rate": 95.229744,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 7
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Madagascar",
+          "code": "MG",
+          "population": 21281844,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 579,
+             "confirmed": 34069,
+             "recovered": 27152,
+             "critical": 6338,
+             "calculated": {
+                "death_rate": 1.6994922,
+                "recovery_rate": 79.69708,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 336
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 35.8333,
+             "longitude": 14.5833
+          },
+          "name": "Malta",
+          "code": "MT",
+          "population": 403000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 411,
+             "confirmed": 30096,
+             "recovered": 29166,
+             "critical": 519,
+             "calculated": {
+                "death_rate": 1.36563,
+                "recovery_rate": 96.90989,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -12.8333,
+             "longitude": 45.1667
+          },
+          "name": "Mayotte",
+          "code": "YT",
+          "population": 159042,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 169,
+             "confirmed": 19849,
+             "recovered": 2964,
+             "critical": 16716,
+             "calculated": {
+                "death_rate": 0.8514283,
+                "recovery_rate": 14.932742,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 7
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 46,
+             "longitude": 105
+          },
+          "name": "Mongolia",
+          "code": "MN",
+          "population": 3086918,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 61,
+             "confirmed": 26692,
+             "recovered": 13772,
+             "critical": 12859,
+             "calculated": {
+                "death_rate": 0.2285329,
+                "recovery_rate": 51.595985,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 88
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Myanmar",
+          "code": "MM",
+          "population": 53414374,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3206,
+             "confirmed": 142674,
+             "recovered": 131914,
+             "critical": 7554,
+             "calculated": {
+                "death_rate": 2.2470808,
+                "recovery_rate": 92.45833,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -21.5,
+             "longitude": 165.5
+          },
+          "name": "New Caledonia",
+          "code": "NC",
+          "population": 216494,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 124,
+             "recovered": 58,
+             "critical": 66,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 46.774193,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Niue",
+          "code": "NU",
+          "population": 2166,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 31,
+             "longitude": 36
+          },
+          "name": "Jordan",
+          "code": "JO",
+          "population": 6407085,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 8474,
+             "confirmed": 697487,
+             "recovered": 658287,
+             "critical": 30726,
+             "calculated": {
+                "death_rate": 1.214933,
+                "recovery_rate": 94.37982,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 729
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 37,
+             "longitude": 127.5
+          },
+          "name": "S. Korea",
+          "code": "KR",
+          "population": 48422644,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 3,
+             "confirmed": 797
+          },
+          "latest_data": {
+             "deaths": 1811,
+             "confirmed": 117458,
+             "recovered": 107071,
+             "critical": 8576,
+             "calculated": {
+                "death_rate": 1.5418277,
+                "recovery_rate": 91.15684,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 127
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 33.8333,
+             "longitude": 35.8333
+          },
+          "name": "Lebanon",
+          "code": "LB",
+          "population": 4125247,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 7057,
+             "confirmed": 516600,
+             "recovered": 437808,
+             "critical": 71735,
+             "calculated": {
+                "death_rate": 1.3660473,
+                "recovery_rate": 84.74797,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 717
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 56,
+             "longitude": 24
+          },
+          "name": "Lithuania",
+          "code": "LT",
+          "population": 2944459,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3818,
+             "confirmed": 237950,
+             "recovered": 215031,
+             "critical": 19101,
+             "calculated": {
+                "death_rate": 1.6045388,
+                "recovery_rate": 90.36814,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 201
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Malawi",
+          "code": "MW",
+          "population": 15447500,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1145,
+             "confirmed": 33989,
+             "recovered": 31864,
+             "critical": 980,
+             "calculated": {
+                "death_rate": 3.368737,
+                "recovery_rate": 93.74798,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 15
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Marshall Islands",
+          "code": "MH",
+          "population": 65859,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 4,
+             "recovered": 4,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 100,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 1,
+             "longitude": 38
+          },
+          "name": "Kenya",
+          "code": "KE",
+          "population": 40046566,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2560,
+             "confirmed": 154392,
+             "recovered": 105367,
+             "critical": 46465,
+             "calculated": {
+                "death_rate": 1.658117,
+                "recovery_rate": 68.246414,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 226
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 23,
+             "longitude": -102
+          },
+          "name": "Mexico",
+          "code": "MX",
+          "population": 112468855,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 498,
+             "confirmed": 3708
+          },
+          "latest_data": {
+             "deaths": 214095,
+             "confirmed": 2319519,
+             "recovered": 1841964,
+             "critical": 263460,
+             "calculated": {
+                "death_rate": 9.230146,
+                "recovery_rate": 79.41146,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4798
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 41,
+             "longitude": 75
+          },
+          "name": "Kyrgyzstan",
+          "code": "KG",
+          "population": 5776500,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1566,
+             "confirmed": 93006,
+             "recovered": 87554,
+             "critical": 3886,
+             "calculated": {
+                "death_rate": 1.6837623,
+                "recovery_rate": 94.138016,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 25
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 42,
+             "longitude": 19
+          },
+          "name": "Montenegro",
+          "code": "ME",
+          "population": 666730,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1451,
+             "confirmed": 96187,
+             "recovered": 91905,
+             "critical": 2831,
+             "calculated": {
+                "death_rate": 1.5085199,
+                "recovery_rate": 95.548256,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 69
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Kiribati",
+          "code": "KI",
+          "population": 92533,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 6.5,
+             "longitude": -9.5
+          },
+          "name": "Liberia",
+          "code": "LR",
+          "population": 3685076,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 85,
+             "confirmed": 2091,
+             "recovered": 1936,
+             "critical": 70,
+             "calculated": {
+                "death_rate": 4.0650406,
+                "recovery_rate": 92.58728,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Laos",
+          "code": "LA",
+          "population": 6368162,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 94,
+             "recovered": 49,
+             "critical": 45,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 52.12766,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 22.1667,
+             "longitude": 113.55
+          },
+          "name": "Macao",
+          "code": "MO",
+          "population": 449198,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 49,
+             "recovered": 48,
+             "critical": 1,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 97.95918,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Libya",
+          "code": "LY",
+          "population": 6461454,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2936,
+             "confirmed": 174216,
+             "recovered": 159630,
+             "critical": 11650,
+             "calculated": {
+                "death_rate": 1.6852642,
+                "recovery_rate": 91.62763,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 3.25,
+             "longitude": 73
+          },
+          "name": "Maldives",
+          "code": "MV",
+          "population": 395650,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 71,
+             "confirmed": 27084,
+             "recovered": 24065,
+             "critical": 2948,
+             "calculated": {
+                "death_rate": 0.2621474,
+                "recovery_rate": 88.853195,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 90
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "North Macedonia",
+          "code": "MK",
+          "population": 2062294,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 4595,
+             "confirmed": 149221,
+             "recovered": 126234,
+             "critical": 18392,
+             "calculated": {
+                "death_rate": 3.0793252,
+                "recovery_rate": 84.59533,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 124
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 20,
+             "longitude": -12
+          },
+          "name": "Mauritania",
+          "code": "MR",
+          "population": 3205060,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 454,
+             "confirmed": 18192,
+             "recovered": 17553,
+             "critical": 185,
+             "calculated": {
+                "death_rate": 2.4956024,
+                "recovery_rate": 96.487465,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 14
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Mali",
+          "code": "ML",
+          "population": 13796354,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 456,
+             "confirmed": 13420,
+             "recovered": 7732,
+             "critical": 5232,
+             "calculated": {
+                "death_rate": 3.3979135,
+                "recovery_rate": 57.615498,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -20.2833,
+             "longitude": 57.55
+          },
+          "name": "Mauritius",
+          "code": "MU",
+          "population": 1294104,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 16,
+             "confirmed": 1205,
+             "recovered": 996,
+             "critical": 193,
+             "calculated": {
+                "death_rate": 1.3278009,
+                "recovery_rate": 82.6556,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -22,
+             "longitude": 17
+          },
+          "name": "Namibia",
+          "code": "NA",
+          "population": 2128471,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 616,
+             "confirmed": 47172,
+             "recovered": 45136,
+             "critical": 1420,
+             "calculated": {
+                "death_rate": 1.3058594,
+                "recovery_rate": 95.68388,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 37
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 30,
+             "longitude": 70
+          },
+          "name": "Pakistan",
+          "code": "PK",
+          "population": 184404791,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 144,
+             "confirmed": 5870
+          },
+          "latest_data": {
+             "deaths": 16842,
+             "confirmed": 784108,
+             "recovered": 682290,
+             "critical": 84976,
+             "calculated": {
+                "death_rate": 2.1479185,
+                "recovery_rate": 87.0148,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4652
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Moldova",
+          "code": "MD",
+          "population": 4324000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 5668,
+             "confirmed": 248009,
+             "recovered": 235054,
+             "critical": 7287,
+             "calculated": {
+                "death_rate": 2.2854009,
+                "recovery_rate": 94.7764,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 242
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -41,
+             "longitude": 174
+          },
+          "name": "New Zealand",
+          "code": "NZ",
+          "population": 4252277,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 26,
+             "confirmed": 2600,
+             "recovered": 2542,
+             "critical": 32,
+             "calculated": {
+                "death_rate": 1,
+                "recovery_rate": 97.76923,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 32,
+             "longitude": -5
+          },
+          "name": "Morocco",
+          "code": "MA",
+          "population": 33848242,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 8976,
+             "confirmed": 507938,
+             "recovered": 493873,
+             "critical": 5089,
+             "calculated": {
+                "death_rate": 1.7671448,
+                "recovery_rate": 97.230965,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 221
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Norfolk Island",
+          "code": "NF",
+          "population": 1828,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 28,
+             "longitude": 84
+          },
+          "name": "Nepal",
+          "code": "NP",
+          "population": 28951852,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3117,
+             "confirmed": 292152,
+             "recovered": 276345,
+             "critical": 12690,
+             "calculated": {
+                "death_rate": 1.0669104,
+                "recovery_rate": 94.58946,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -23,
+             "longitude": -58
+          },
+          "name": "Paraguay",
+          "code": "PY",
+          "population": 6375830,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 5633,
+             "confirmed": 260382,
+             "recovered": 213710,
+             "critical": 41039,
+             "calculated": {
+                "death_rate": 2.1633599,
+                "recovery_rate": 82.07557,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 503
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Niger",
+          "code": "NE",
+          "population": 15878271,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 191,
+             "confirmed": 5143,
+             "recovered": 4812,
+             "critical": 140,
+             "calculated": {
+                "death_rate": 3.7137856,
+                "recovery_rate": 93.564064,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 18
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 43.7333,
+             "longitude": 7.4
+          },
+          "name": "Monaco",
+          "code": "MC",
+          "population": 32965,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 31,
+             "confirmed": 2423,
+             "recovered": 2311,
+             "critical": 81,
+             "calculated": {
+                "death_rate": 1.2794057,
+                "recovery_rate": 95.37763,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Mozambique",
+          "code": "MZ",
+          "population": 22061451,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 805,
+             "confirmed": 69523,
+             "recovered": 62394,
+             "critical": 6324,
+             "calculated": {
+                "death_rate": 1.1578902,
+                "recovery_rate": 89.74584,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 43
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 52.5,
+             "longitude": 5.75
+          },
+          "name": "Netherlands",
+          "code": "NL",
+          "population": 16645000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 17002,
+             "confirmed": 1435854,
+             "recovered": 1196364,
+             "critical": 222488,
+             "calculated": {
+                "death_rate": 1.1841037,
+                "recovery_rate": 83.320724,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 828
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 62,
+             "longitude": 10
+          },
+          "name": "Norway",
+          "code": "NO",
+          "population": 5009150,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 735,
+             "confirmed": 109581,
+             "recovered": 88952,
+             "critical": 19894,
+             "calculated": {
+                "death_rate": 0.67073673,
+                "recovery_rate": 81.17466,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 42
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 10,
+             "longitude": 8
+          },
+          "name": "Nigeria",
+          "code": "NG",
+          "population": 154000000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2061,
+             "confirmed": 164588,
+             "recovered": 154578,
+             "critical": 7949,
+             "calculated": {
+                "death_rate": 1.2522177,
+                "recovery_rate": 93.918144,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 11
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 39.5,
+             "longitude": -8
+          },
+          "name": "Portugal",
+          "code": "PT",
+          "population": 10676000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 16956,
+             "confirmed": 832891,
+             "recovered": 791171,
+             "critical": 24764,
+             "calculated": {
+                "death_rate": 2.0358007,
+                "recovery_rate": 94.990944,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 104
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 21,
+             "longitude": 57
+          },
+          "name": "Oman",
+          "code": "OM",
+          "population": 2967717,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1942,
+             "confirmed": 185278,
+             "recovered": 165051,
+             "critical": 18285,
+             "calculated": {
+                "death_rate": 1.0481547,
+                "recovery_rate": 89.08289,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 266
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Russia",
+          "code": "RU",
+          "population": 140702000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 107103,
+             "confirmed": 4736121,
+             "recovered": 4361807,
+             "critical": 267211,
+             "calculated": {
+                "death_rate": 2.2614076,
+                "recovery_rate": 92.09661,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2300
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13.8833,
+             "longitude": -61.1333
+          },
+          "name": "Saint Lucia",
+          "code": "LC",
+          "population": 160922,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 70,
+             "confirmed": 4455,
+             "recovered": 4290,
+             "critical": 95,
+             "calculated": {
+                "death_rate": 1.5712682,
+                "recovery_rate": 96.296295,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 43.7667,
+             "longitude": 12.4167
+          },
+          "name": "San Marino",
+          "code": "SM",
+          "population": 31477,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 88,
+             "confirmed": 5045,
+             "recovered": 4822,
+             "critical": 135,
+             "calculated": {
+                "death_rate": 1.7443013,
+                "recovery_rate": 95.57978,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Palau",
+          "code": "PW",
+          "population": 19907,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -4.5833,
+             "longitude": 55.6667
+          },
+          "name": "Seychelles",
+          "code": "SC",
+          "population": 88340,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 26,
+             "confirmed": 5170,
+             "recovered": 4675,
+             "critical": 469,
+             "calculated": {
+                "death_rate": 0.5029014,
+                "recovery_rate": 90.42553,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -10,
+             "longitude": -76
+          },
+          "name": "Peru",
+          "code": "PE",
+          "population": 29907003,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 58604,
+             "confirmed": 1734606,
+             "recovered": 1661792,
+             "critical": 14210,
+             "calculated": {
+                "death_rate": 3.3785193,
+                "recovery_rate": 95.80228,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2614
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 46,
+             "longitude": 15
+          },
+          "name": "Slovenia",
+          "code": "SI",
+          "population": 2007000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 4187,
+             "confirmed": 234811,
+             "recovered": 219232,
+             "critical": 11392,
+             "calculated": {
+                "death_rate": 1.7831362,
+                "recovery_rate": 93.3653,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 154
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 18.25,
+             "longitude": -66.5
+          },
+          "name": "Puerto Rico",
+          "code": "PR",
+          "population": 3916632,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 8
+          },
+          "latest_data": {
+             "deaths": 2,
+             "confirmed": 39,
+             "recovered": 1,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 5.1282053,
+                "recovery_rate": 2.5641026,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 14
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "South Sudan",
+          "code": "SS",
+          "population": 8260490,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 114,
+             "confirmed": 10504,
+             "recovered": 10250,
+             "critical": 140,
+             "calculated": {
+                "death_rate": 1.0853008,
+                "recovery_rate": 97.58187,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -2,
+             "longitude": 30
+          },
+          "name": "Rwanda",
+          "code": "RW",
+          "population": 11055976,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 328,
+             "confirmed": 24262,
+             "recovered": 22649,
+             "critical": 1285,
+             "calculated": {
+                "death_rate": 1.3519083,
+                "recovery_rate": 93.351746,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 6
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Svalbard and Jan Mayen",
+          "code": "SJ",
+          "population": 2550,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Saint Martin",
+          "code": "MF",
+          "population": 35925,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 12,
+             "confirmed": 1720,
+             "recovered": 1399,
+             "critical": 309,
+             "calculated": {
+                "death_rate": 0.6976744,
+                "recovery_rate": 81.33721,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 7
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Taiwan",
+          "code": "TW",
+          "population": 22894384,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 11,
+             "confirmed": 1086,
+             "recovered": 1041,
+             "critical": 34,
+             "calculated": {
+                "death_rate": 1.0128913,
+                "recovery_rate": 95.85635,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Sao Tome and Principe",
+          "code": "ST",
+          "population": 175808,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 35,
+             "confirmed": 2292,
+             "recovered": 2227,
+             "critical": 30,
+             "calculated": {
+                "death_rate": 1.5270506,
+                "recovery_rate": 97.16405,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 8,
+             "longitude": 1.1667
+          },
+          "name": "Togo",
+          "code": "TG",
+          "population": 6587239,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 121,
+             "confirmed": 12698,
+             "recovered": 10512,
+             "critical": 2065,
+             "calculated": {
+                "death_rate": 0.95290595,
+                "recovery_rate": 82.78469,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Sierra Leone",
+          "code": "SL",
+          "population": 5245695,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 79,
+             "confirmed": 4044,
+             "recovered": 2914,
+             "critical": 1051,
+             "calculated": {
+                "death_rate": 1.9535114,
+                "recovery_rate": 72.057365,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 39,
+             "longitude": 35
+          },
+          "name": "Turkey",
+          "code": "TR",
+          "population": 77804122,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 37329,
+             "confirmed": 4501382,
+             "recovered": 3909935,
+             "critical": 554118,
+             "calculated": {
+                "death_rate": 0.82927865,
+                "recovery_rate": 86.86077,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3463
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Solomon Islands",
+          "code": "SB",
+          "population": 559198,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 20,
+             "recovered": 18,
+             "critical": 2,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 90,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 49,
+             "longitude": 32
+          },
+          "name": "Ukraine",
+          "code": "UA",
+          "population": 45415596,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 41266,
+             "confirmed": 1990353,
+             "recovered": 1533303,
+             "critical": 415784,
+             "calculated": {
+                "death_rate": 2.0733006,
+                "recovery_rate": 77.036736,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 177
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 40,
+             "longitude": -4
+          },
+          "name": "Spain",
+          "code": "ES",
+          "population": 46505963,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 77496,
+             "confirmed": 3456886,
+             "recovered": 3156955,
+             "critical": 222435,
+             "calculated": {
+                "death_rate": 2.2417865,
+                "recovery_rate": 91.32366,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2283
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -33,
+             "longitude": -56
+          },
+          "name": "Uruguay",
+          "code": "UY",
+          "population": 3477000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2160,
+             "confirmed": 175891,
+             "recovered": 145464,
+             "critical": 28267,
+             "calculated": {
+                "death_rate": 1.2280333,
+                "recovery_rate": 82.70122,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 514
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Swaziland",
+          "code": "SZ",
+          "population": 1354051,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "British Virgin Islands",
+          "code": "VG",
+          "population": 21730,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 194,
+             "recovered": 183,
+             "critical": 10,
+             "calculated": {
+                "death_rate": 0.5154639,
+                "recovery_rate": 94.329895,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Tajikistan",
+          "code": "TJ",
+          "population": 7487489,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 90,
+             "confirmed": 13308,
+             "recovered": 13218,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 0.67628497,
+                "recovery_rate": 99.323715,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Tokelau",
+          "code": "TK",
+          "population": 1466,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Turkmenistan",
+          "code": "TM",
+          "population": 4940916,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "United Arab Emirates",
+          "code": "AE",
+          "population": 4975593,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 41,
+             "longitude": 64
+          },
+          "name": "Uzbekistan",
+          "code": "UZ",
+          "population": 27865738,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 640,
+             "confirmed": 87935,
+             "recovered": 85007,
+             "critical": 2288,
+             "calculated": {
+                "death_rate": 0.7278103,
+                "recovery_rate": 96.670265,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 23
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 18.3333,
+             "longitude": -64.8333
+          },
+          "name": "U.S. Virgin Islands",
+          "code": "VI",
+          "population": 108708,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 17,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 0,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 163
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Zimbabwe",
+          "code": "ZW",
+          "population": 13061000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1555,
+             "confirmed": 38018,
+             "recovered": 35073,
+             "critical": 1390,
+             "calculated": {
+                "death_rate": 4.090168,
+                "recovery_rate": 92.25367,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 12
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 48,
+             "longitude": 68
+          },
+          "name": "Kazakhstan",
+          "code": "KZ",
+          "population": 15340000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 29,
+             "confirmed": 2894
+          },
+          "latest_data": {
+             "deaths": 3512,
+             "confirmed": 300733,
+             "recovered": 257278,
+             "critical": 39943,
+             "calculated": {
+                "death_rate": 1.1678133,
+                "recovery_rate": 85.55031,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 221
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 29.3375,
+             "longitude": 47.6581
+          },
+          "name": "Kuwait",
+          "code": "KW",
+          "population": 2789132,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1493,
+             "confirmed": 262766,
+             "recovered": 245824,
+             "critical": 15449,
+             "calculated": {
+                "death_rate": 0.56818616,
+                "recovery_rate": 93.55244,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 229
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Lesotho",
+          "code": "LS",
+          "population": 1919552,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 316,
+             "confirmed": 10723,
+             "recovered": 6267,
+             "critical": 4140,
+             "calculated": {
+                "death_rate": 2.9469366,
+                "recovery_rate": 58.444466,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 49.75,
+             "longitude": 6.1667
+          },
+          "name": "Luxembourg",
+          "code": "LU",
+          "population": 497538,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 790,
+             "confirmed": 65813,
+             "recovered": 61936,
+             "critical": 3087,
+             "calculated": {
+                "death_rate": 1.2003708,
+                "recovery_rate": 94.10907,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 30
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 2.5,
+             "longitude": 112.5
+          },
+          "name": "Malaysia",
+          "code": "MY",
+          "population": 28274729,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1407,
+             "confirmed": 384688,
+             "recovered": 361267,
+             "critical": 22014,
+             "calculated": {
+                "death_rate": 0.36575094,
+                "recovery_rate": 93.91169,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 248
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 14.6667,
+             "longitude": -61
+          },
+          "name": "Martinique",
+          "code": "MQ",
+          "population": 432900,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 68,
+             "confirmed": 10611,
+             "recovered": 98,
+             "critical": 10445,
+             "calculated": {
+                "death_rate": 0.6408444,
+                "recovery_rate": 0.92356986,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 24
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Micronesia, Federated States of",
+          "code": "FM",
+          "population": 107708,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 16.75,
+             "longitude": -62.2
+          },
+          "name": "Montserrat",
+          "code": "MS",
+          "population": 9341,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 20,
+             "recovered": 19,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 5,
+                "recovery_rate": 95,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Nauru",
+          "code": "NR",
+          "population": 10065,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13,
+             "longitude": -85
+          },
+          "name": "Nicaragua",
+          "code": "NI",
+          "population": 5995928,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 181,
+             "confirmed": 6835,
+             "recovered": 4225,
+             "critical": 2429,
+             "calculated": {
+                "death_rate": 2.6481347,
+                "recovery_rate": 61.81419,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Northern Mariana Islands",
+          "code": "MP",
+          "population": 53883,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 9,
+             "longitude": -80
+          },
+          "name": "Panama",
+          "code": "PA",
+          "population": 3410676,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 6198,
+             "confirmed": 361992,
+             "recovered": 351949,
+             "critical": 3845,
+             "calculated": {
+                "death_rate": 1.7121925,
+                "recovery_rate": 97.22563,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 105
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Pitcairn",
+          "code": "PN",
+          "population": 46,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -21.1,
+             "longitude": 55.6
+          },
+          "name": "Réunion",
+          "code": "RE",
+          "population": 776948,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 141,
+             "confirmed": 19343,
+             "recovered": 17653,
+             "critical": 1549,
+             "calculated": {
+                "death_rate": 0.72894585,
+                "recovery_rate": 91.26299,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 36
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "code": "SH",
+          "population": 7460,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Saint Vincent Grenadines",
+          "code": "VC",
+          "population": 104217,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 14,
+             "longitude": -14
+          },
+          "name": "Senegal",
+          "code": "SN",
+          "population": 12323252,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1097,
+             "confirmed": 39975,
+             "recovered": 38719,
+             "critical": 159,
+             "calculated": {
+                "death_rate": 2.7442153,
+                "recovery_rate": 96.85804,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 9
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Sint Maarten",
+          "code": "SX",
+          "population": 37429,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 27,
+             "confirmed": 2212,
+             "recovered": 2167,
+             "critical": 18,
+             "calculated": {
+                "death_rate": 1.2206148,
+                "recovery_rate": 97.965645,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -29,
+             "longitude": 24
+          },
+          "name": "South Africa",
+          "code": "ZA",
+          "population": 49000000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 53995,
+             "confirmed": 1571348,
+             "recovered": 1496756,
+             "critical": 20597,
+             "calculated": {
+                "death_rate": 3.4362216,
+                "recovery_rate": 95.25299,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 546
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 15,
+             "longitude": 30
+          },
+          "name": "Sudan",
+          "code": "SD",
+          "population": 35000000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 2300,
+             "confirmed": 32695,
+             "recovered": 26411,
+             "critical": 3984,
+             "calculated": {
+                "death_rate": 7.0347147,
+                "recovery_rate": 80.77994,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 47,
+             "longitude": 8
+          },
+          "name": "Switzerland",
+          "code": "CH",
+          "population": 7581000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 10555,
+             "confirmed": 644396,
+             "recovered": 575624,
+             "critical": 58217,
+             "calculated": {
+                "death_rate": 1.637968,
+                "recovery_rate": 89.32768,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 248
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 15,
+             "longitude": 100
+          },
+          "name": "Thailand",
+          "code": "TH",
+          "population": 67089500,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 117,
+             "confirmed": 48113,
+             "recovered": 29848,
+             "critical": 18148,
+             "calculated": {
+                "death_rate": 0.24317752,
+                "recovery_rate": 62.03729,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 11,
+             "longitude": -61
+          },
+          "name": "Trinidad and Tobago",
+          "code": "TT",
+          "population": 1228691,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 157,
+             "confirmed": 9383,
+             "recovered": 8065,
+             "critical": 1161,
+             "calculated": {
+                "death_rate": 1.6732389,
+                "recovery_rate": 85.95332,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 8
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Tuvalu",
+          "code": "TV",
+          "population": 10472,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 38,
+             "longitude": -97
+          },
+          "name": "USA",
+          "code": "US",
+          "population": 310232863,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 584226,
+             "confirmed": 32669121,
+             "recovered": 25236658,
+             "critical": 6848237,
+             "calculated": {
+                "death_rate": 1.7883126,
+                "recovery_rate": 77.249275,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 9962
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 8,
+             "longitude": -66
+          },
+          "name": "Venezuela",
+          "code": "VE",
+          "population": 27223228,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1987,
+             "confirmed": 188063,
+             "recovered": 171043,
+             "critical": 15033,
+             "calculated": {
+                "death_rate": 1.0565609,
+                "recovery_rate": 90.949844,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 293
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Papua New Guinea",
+          "code": "PG",
+          "population": 6064515,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 99,
+             "confirmed": 10338,
+             "recovered": 7364,
+             "critical": 2875,
+             "calculated": {
+                "death_rate": 0.95763206,
+                "recovery_rate": 71.232346,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 52,
+             "longitude": 20
+          },
+          "name": "Poland",
+          "code": "PL",
+          "population": 38500000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 64168,
+             "confirmed": 2731256,
+             "recovered": 2380787,
+             "critical": 286301,
+             "calculated": {
+                "death_rate": 2.3493953,
+                "recovery_rate": 87.16821,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 3229
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 46,
+             "longitude": 25
+          },
+          "name": "Romania",
+          "code": "RO",
+          "population": 21959278,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 26943,
+             "confirmed": 1039998,
+             "recovered": 959126,
+             "critical": 53929,
+             "calculated": {
+                "death_rate": 2.590678,
+                "recovery_rate": 92.22383,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1405
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Saint Kitts and Nevis",
+          "code": "KN",
+          "population": 51134,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 44,
+             "recovered": 44,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 100,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Samoa",
+          "code": "WS",
+          "population": 192001,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 3,
+             "recovered": 2,
+             "critical": 1,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 66.666664,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 44,
+             "longitude": 21
+          },
+          "name": "Serbia",
+          "code": "RS",
+          "population": 7344847,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 6130,
+             "confirmed": 673520,
+             "recovered": 608270,
+             "critical": 59120,
+             "calculated": {
+                "death_rate": 0.91014373,
+                "recovery_rate": 90.31209,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 219
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 48.6667,
+             "longitude": 19.5
+          },
+          "name": "Slovakia",
+          "code": "SK",
+          "population": 5455000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 11357,
+             "confirmed": 378150,
+             "recovered": 255300,
+             "critical": 111493,
+             "calculated": {
+                "death_rate": 3.0033057,
+                "recovery_rate": 67.51289,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 387
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "South Georgia and the South Sandwich Islands",
+          "code": "GS",
+          "population": 30,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 4,
+             "longitude": -56
+          },
+          "name": "Suriname",
+          "code": "SR",
+          "population": 492829,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 191,
+             "confirmed": 9865,
+             "recovered": 8965,
+             "critical": 709,
+             "calculated": {
+                "death_rate": 1.9361379,
+                "recovery_rate": 90.87684,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 14
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Syria",
+          "code": "SY",
+          "population": 22198110,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1496,
+             "confirmed": 21725,
+             "recovered": 15376,
+             "critical": 4853,
+             "calculated": {
+                "death_rate": 6.886076,
+                "recovery_rate": 70.775604,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Timor-Leste",
+          "code": "TL",
+          "population": 1154625,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3,
+             "confirmed": 1657,
+             "recovered": 795,
+             "critical": 859,
+             "calculated": {
+                "death_rate": 0.18105009,
+                "recovery_rate": 47.978275,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 34,
+             "longitude": 9
+          },
+          "name": "Tunisia",
+          "code": "TN",
+          "population": 10589025,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 10063,
+             "confirmed": 294138,
+             "recovered": 244517,
+             "critical": 39558,
+             "calculated": {
+                "death_rate": 3.4211833,
+                "recovery_rate": 83.13003,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 498
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Uganda",
+          "code": "UG",
+          "population": 33398682,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 341,
+             "confirmed": 41529,
+             "recovered": 40898,
+             "critical": 290,
+             "calculated": {
+                "death_rate": 0.82111293,
+                "recovery_rate": 98.48058,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 24
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "United States Minor Outlying Islands",
+          "code": "UM",
+          "population": null,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Vietnam",
+          "code": "VN",
+          "population": 89571130,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 8
+          },
+          "latest_data": {
+             "deaths": 35,
+             "confirmed": 2824,
+             "recovered": 2490,
+             "critical": 299,
+             "calculated": {
+                "death_rate": 1.2393768,
+                "recovery_rate": 88.172806,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Palestine",
+          "code": "PS",
+          "population": 3800000,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 3115,
+             "confirmed": 287680,
+             "recovered": 256559,
+             "critical": 28006,
+             "calculated": {
+                "death_rate": 1.0828004,
+                "recovery_rate": 89.182076,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 153
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 13,
+             "longitude": 122
+          },
+          "name": "Philippines",
+          "code": "PH",
+          "population": 99900177,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 16370,
+             "confirmed": 971049,
+             "recovered": 846691,
+             "critical": 107988,
+             "calculated": {
+                "death_rate": 1.6858058,
+                "recovery_rate": 87.193436,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 750
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 25.5,
+             "longitude": 51.25
+          },
+          "name": "Qatar",
+          "code": "QA",
+          "population": 840926,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 407,
+             "confirmed": 199980,
+             "recovered": 177164,
+             "critical": 22409,
+             "calculated": {
+                "death_rate": 0.20352036,
+                "recovery_rate": 88.59086,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 449
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Saint Barth",
+          "code": "BL",
+          "population": 8450,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Saint Pierre Miquelon",
+          "code": "PM",
+          "population": 7012,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 25,
+             "recovered": 24,
+             "critical": 1,
+             "calculated": {
+                "death_rate": 0,
+                "recovery_rate": 96,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 25,
+             "longitude": 45
+          },
+          "name": "Saudi Arabia",
+          "code": "SA",
+          "population": 25731776,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 6869,
+             "confirmed": 409093,
+             "recovered": 392448,
+             "critical": 9776,
+             "calculated": {
+                "death_rate": 1.6790802,
+                "recovery_rate": 95.931244,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1182
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 1.3667,
+             "longitude": 103.8
+          },
+          "name": "Singapore",
+          "code": "SG",
+          "population": 4701069,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 30,
+             "confirmed": 60904,
+             "recovered": 60603,
+             "critical": 271,
+             "calculated": {
+                "death_rate": 0.04925785,
+                "recovery_rate": 99.50578,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 1
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 10,
+             "longitude": 49
+          },
+          "name": "Somalia",
+          "code": "SO",
+          "population": 10112453,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 689,
+             "confirmed": 13459,
+             "recovered": 5593,
+             "critical": 7177,
+             "calculated": {
+                "death_rate": 5.1192513,
+                "recovery_rate": 41.555836,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 7,
+             "longitude": 81
+          },
+          "name": "Sri Lanka",
+          "code": "LK",
+          "population": 21513990,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 634,
+             "confirmed": 98722,
+             "recovered": 93884,
+             "critical": 4204,
+             "calculated": {
+                "death_rate": 0.6422074,
+                "recovery_rate": 95.09937,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 62,
+             "longitude": 15
+          },
+          "name": "Sweden",
+          "code": "SE",
+          "population": 9828655,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 13882,
+             "confirmed": 932076,
+             "recovered": 752000,
+             "critical": 166194,
+             "calculated": {
+                "death_rate": 1.4893636,
+                "recovery_rate": 80.680115,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 403
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Tanzania",
+          "code": "TZ",
+          "population": 41892895,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 21,
+             "confirmed": 509,
+             "recovered": 183,
+             "critical": 305,
+             "calculated": {
+                "death_rate": 4.1257367,
+                "recovery_rate": 35.95285,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 7
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Tonga",
+          "code": "TO",
+          "population": 122580,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 0,
+             "confirmed": 0,
+             "recovered": 0,
+             "critical": 0,
+             "calculated": {
+                "death_rate": null,
+                "recovery_rate": null,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Turks and Caicos",
+          "code": "TC",
+          "population": 20556,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 17,
+             "confirmed": 2371,
+             "recovered": 2316,
+             "critical": 38,
+             "calculated": {
+                "death_rate": 0.716997,
+                "recovery_rate": 97.680305,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 54,
+             "longitude": -2
+          },
+          "name": "UK",
+          "code": "GB",
+          "population": 62348447,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 127345,
+             "confirmed": 4398431,
+             "recovered": 4171798,
+             "critical": 99288,
+             "calculated": {
+                "death_rate": 2.895237,
+                "recovery_rate": 94.84741,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 276
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Vanuatu",
+          "code": "VU",
+          "population": 221552,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 4,
+             "recovered": 3,
+             "critical": 0,
+             "calculated": {
+                "death_rate": 25,
+                "recovery_rate": 75,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Wallis and Futuna",
+          "code": "WF",
+          "population": 16025,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 5,
+             "confirmed": 440,
+             "recovered": 44,
+             "critical": 391,
+             "calculated": {
+                "death_rate": 1.1363636,
+                "recovery_rate": 10,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 4
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": -15,
+             "longitude": 30
+          },
+          "name": "Zambia",
+          "code": "ZM",
+          "population": 13460305,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1240,
+             "confirmed": 91189,
+             "recovered": 89117,
+             "critical": 832,
+             "calculated": {
+                "death_rate": 1.3598131,
+                "recovery_rate": 97.7278,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 44
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Western Sahara",
+          "code": "EH",
+          "population": 273008,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1,
+             "confirmed": 10,
+             "recovered": 8,
+             "critical": 1,
+             "calculated": {
+                "death_rate": 10,
+                "recovery_rate": 80,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 0
+             }
+          }
+       },
+       {
+          "coordinates": {
+             "latitude": 0,
+             "longitude": 0
+          },
+          "name": "Yemen",
+          "code": "YE",
+          "population": 23495361,
+          "updated_at": "2021-04-23T03:49:19.025Z",
+          "today": {
+             "deaths": 0,
+             "confirmed": 0
+          },
+          "latest_data": {
+             "deaths": 1157,
+             "confirmed": 6020,
+             "recovered": 2393,
+             "critical": 2470,
+             "calculated": {
+                "death_rate": 19.219269,
+                "recovery_rate": 39.75083,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 23
+             }
+          }
+       }
+    ],
+    "_cacheHit": true
+ }
