@@ -4,7 +4,8 @@ import useSwr from 'swr'
 import { Icon } from 'leaflet'
 import { popupHead, okText } from "./popupStyles";
 
-const URL = 'https://wuhan-coronavirus-api.laeyoung.endpoint.ainize.ai/jhu-edu/latest'
+// const URL = 'https://wuhan-coronavirus-api.laeyoung.endpoint.ainize.ai/jhu-edu/latest'
+const URL = 'https://corona-api.com/countries'
 // const URL = 'https://covid19.mathdro.id/api/confirmed'
 // const URL2= 'https://2019ncov-api.now.sh/api/cases'
 
@@ -18,17 +19,20 @@ const icon = new Icon({
 
 const Confirmados = (props) =>{
     const { data , error } = useSwr( URL, fetcher);
-    const casosConfirmados = ( data && !error)? data : [];
+    // console.log('data:', data ? data.data : {})
+    const casosConfirmados = ( data && !error)? data.data : [];
+    // console.log('casosConfirmados: ' + casosConfirmados)
+    // console.log('dasdingo:',casosConfirmados.data)
     const [ casoConfirmadoActivo, setCasoConfirmadoActivo] = React.useState(null)
     return(
         <div>
             {
                 casosConfirmados.map( (casoConfirmado, index) => {   
-                        if(casoConfirmado.location.lat !== null && casoConfirmado.location.lng !== null){
+                        if(casoConfirmado.coordinates.latitude !== null && casoConfirmado.coordinates.longitude !== null){
                             return(    
                                 <Marker 
                                     key = { index }
-                                    position = { [casoConfirmado.location.lat, casoConfirmado.location.lng]}
+                                    position = { [casoConfirmado.coordinates.latitude, casoConfirmado.coordinates.longitude]}
                                     icon = {icon}
                                     onmouseover = { () => {
                                         if(!window.matchMedia("(max-width: 640px)").matches){ // verifica el tamaño del dispositivo
@@ -53,13 +57,14 @@ const Confirmados = (props) =>{
             {casoConfirmadoActivo &&
                 <Popup 
                     className="request-popup"
-                    position = {[casoConfirmadoActivo.location.lat, casoConfirmadoActivo.location.lng]}
+                    position = {[casoConfirmadoActivo.coordinates.latitude, casoConfirmadoActivo.coordinates.longitude]}
                 >
-                    <h2 style={popupHead}>{casoConfirmadoActivo.countryregion}</h2>
-                    <h4 style={okText}>{ casoConfirmadoActivo.provincestate ? casoConfirmadoActivo.provincestate.toLocaleString() : null }</h4>
-                    <h4 style={okText}>Infectados: { casoConfirmadoActivo.confirmed ? casoConfirmadoActivo.confirmed.toLocaleString() : 0 }</h4>
-                    <h4 style={okText}>Fallecidos: {casoConfirmadoActivo.deaths ? casoConfirmadoActivo.deaths.toLocaleString() : 0 }</h4>
-                    <h4 style={okText}>Recuperados: {casoConfirmadoActivo.recovered ? casoConfirmadoActivo.recovered.toLocaleString() : 0 }</h4>
+                    <h2 style={popupHead}>{casoConfirmadoActivo.name}</h2>
+                    <h4 style={okText}>Población: { casoConfirmadoActivo.population ? casoConfirmadoActivo.population.toLocaleString() : null }</h4>
+                    <h4 style={okText}>Infectados: { casoConfirmadoActivo.latest_data.confirmed ? casoConfirmadoActivo.latest_data.confirmed.toLocaleString() : 0 }</h4>
+                    <h4 style={okText}>Fallecidos: {casoConfirmadoActivo.latest_data.deaths ? casoConfirmadoActivo.latest_data.deaths.toLocaleString() : 0 }</h4>
+                    <h4 style={okText}>Recuperados: {casoConfirmadoActivo.latest_data.recovered ? casoConfirmadoActivo.latest_data.recovered.toLocaleString() : 0 }</h4>
+                    <h4 style={okText}>Criticos: {casoConfirmadoActivo.latest_data.critical ? casoConfirmadoActivo.latest_data.critical.toLocaleString() : 0 }</h4>
                 </Popup>
             } 
         </div>
