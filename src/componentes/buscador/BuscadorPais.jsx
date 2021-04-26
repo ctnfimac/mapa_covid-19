@@ -11,7 +11,8 @@ const BuscadorPais = () => {
         <div className="input-group" style={{borderBottom:"1px solid #ddd", color:"#ddd"}}>
             <input type="text" className="form-control border border-0" style={ fondoBuscador} placeholder="Buscar País" aria-label="Buscar País" 
                    value= {paisNombre}
-                   onChange= {(e)=> {setPaisNombre(e.target.value)}}  
+                   onChange= {(e)=> {setPaisNombre(e.target.value)}} 
+                   onKeyPress = { (e) => e.key === 'Enter' ? dispatch(fetchPais(paisNombre)) : null}  
             />
             <div className="input-group-prepend" style= {{ marginLeft:"0" }}>
                 <span className="input-group-text rgba-white-ligth border border-0" style={ fondoBuscador} id="basic-addon"
